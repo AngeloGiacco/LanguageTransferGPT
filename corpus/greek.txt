@@ -1,4 +1,4 @@
-Greek Track 02 
+Greek Track - Level: Beginner 
 Teacher: The first word we will learn in Greek is, μένω – I stay or, I’m staying. Μένω 
  [méno]. 
 Student: Μένω. 
@@ -91,7 +91,7 @@ Student: Δεν με περιμένει; [dhen me periméni?].
 Teacher: Δεν με περιμένει; Well done. 
 
 
-Greek Track 03 
+Greek Track - Level: Beginner 
 Teacher: So what was, I stay or, I’m staying? 
 Student: Μένω [méno]. 
 Teacher: Μένω, good. And, He stays, she stays, it stays. 
@@ -185,7 +185,7 @@ Student: Τι περιμένει; [ti periméni?].
 Teacher: Τι περιμένει; Very good. 
 
 
-Greek Track 04 
+Greek Track - Level: Beginner 
 Teacher: So we’ve been building up verbs, starting from a base verb, no, and adding 
  bits on to get different meanings. What was that base verb, I stay, or I’m staying? 
 Student: Μένω [méno]. 
@@ -334,7 +334,7 @@ Student: Εγώ, εγώ ξέρω [eghó kséro].
 Teacher: Εγώ ξέρω. 
 
 
-Greek Track 05 
+Greek Track - Level: Beginner 
 Teacher: What was the word for, Where? 
 Student: Πού [pu]. 
 Teacher: Πού, good. Don’t you know where he’s staying? So you need to break up this 
@@ -472,7 +472,7 @@ Teacher: Very good. Γιατί δεν θέλεις να με περιμένει�
  Γιατί δεν θέλεις να με περιμένεις; Very good. 
 
 
-Greek Track 06 
+Greek Track - Level: Beginner 
 Teacher: With this structure that we've learnt using να [na], to say things like, I want 
  to know, θέλω να ξέρω, you could also say things like, I want you to know. All we 
  have to do is say: I want, να, you know – a very small change. So how would you 
@@ -587,7 +587,7 @@ Student: Θέλω να με περιμένεις εδώ [thélo na me periménis
 Teacher: Good. Θέλω να με περιμένεις εδώ. I want, να, you wait for me here.        
 
 
-Greek Track 07 
+Greek Track - Level: Beginner 
 Teacher: So we've learnt some verbs. What was, I stay? 
 Student: Μένω [méno]. 
 Teacher: Μένω. I wait, or I'm waiting? 
@@ -669,7 +669,7 @@ Teacher: Very good. And well done for taking your time, ah? Δεν θέλω να
  Δεν θέλω να το κάνεις εδώ. I don’t want you to do it here. Very well done. 
 
 
-Greek Track 08 
+Greek Track - Level: Beginner 
 Teacher: What was the word for I, which we can use to be emphatic if we like? 
 Student: Εγώ [eghó]. 
 Teacher: Εγώ. Very good, and the word for, Here? 
@@ -798,7 +798,7 @@ Teacher: Διάγραμμα. So the D is δέλτα, and then the G is like in �
  – κλίμα [klíma]. 
 
 
-Greek Track 09 
+Greek Track - Level: Beginner 
 Teacher: What was the word for, I have? 
 Student: Έχω [ékho]. 
 Teacher: Έχω, good. We saw that adding περι- [peri], meaning “around” or “near” to μένω 
@@ -906,7 +906,7 @@ Teacher: Good. Γιατί δεν προσπαθείς να το κάνεις; [y
  good. Why don’t you try to do it. 
 
 
-Greek Track 10 
+Greek Track - Level: Beginner 
 Teacher: As we mentioned on the first track,
 
 CompleteGreek will be recorded on 
@@ -1033,7 +1033,7 @@ Student: Εγώ σε ξέρεις – er ... ξέρω.
 Teacher: Εγώ σε ξέρω [eghó se kséro]. Very good. 
 
 
-Greek Track 11 
+Greek Track - Level: Beginner 
 Teacher: The verb for “I see” in Greek is, βλέπω [vlépo]. Βλέπω. 
 Student: Βλέπω. 
 Teacher: Βλέπω. 
@@ -1144,7 +1144,7 @@ Teacher: Very good. Έχω και το αυτοκίνητο. The accent on αυ�
  (αυτοκίνητο), whereas the accent on κινητό is on the end. Έχω και το αυτοκίνητο. 
 
 
-Greek Track 12 
+Greek Track - Level: Beginner 
 Teacher: What was the word for, the mobile? 
 Student: Το κινητό [to kinitó]. 
 Teacher: Το κινητό. And the automobile, the car? 
@@ -1240,7 +1240,7 @@ Teacher: Very good. Και αυτός με περιμένει. Με περιμέ
  nouns throughout Greek. 
 
 
-Greek Track 13 
+Greek Track - Level: Beginner 
 Teacher: So what was the word for, This, for neuter nouns? 
 Student: Αυτό [aftó]. 
 Teacher: Αυτό, good. And what do we do to make that masculine? 
@@ -1370,7 +1370,7 @@ Teacher: Από πού είναι αυτός; And this αυτός is flexible. Y
  πού είναι; The most natural order, as you gave me: Από πού είναι αυτός; 
 
 
-Greek Track 14 
+Greek Track - Level: Beginner 
 Teacher: Give me again the word for, this, for neuter nouns. 
 Student: Αυτό [aftó]. 
 Teacher: And for masculine? 
@@ -1517,7 +1517,7 @@ Student: No, I’m just thinking that I should have done that with German.
 Teacher: Ah. Okay, good. 
 
 
-Greek Track 15 
+Greek Track - Level: Beginner 
 Teacher: What was, I can? 
 Student: Μπορώ [boró]. 
 Teacher: Μπορώ. I can do it? 
@@ -1669,7 +1669,7 @@ Teacher: Πού είσαι; This is something else you will hear very often in G
  είσαι; This is just a term of endearment, which shouldn’t be taken too literally. 
 
 
-Greek Track 16 
+Greek Track - Level: Beginner 
 Teacher: How would you say, We are waiting here? 
 Student: Περιμένουμε εδώ [periménume edhó]. 
 Teacher: Περιμένουμε εδώ. Good. So that’s our standard, simple sentence, let’s say. 
@@ -1790,7 +1790,7 @@ Student: Πού είναι Μαρία; Πού είναι η Μαρία; [pu íne
 Teacher: Very good. Πού είναι η Μαρία; Η Μαρία πού είναι; [i maría pu íne?]. Very good. 
 
 
-Greek Track 17 
+Greek Track - Level: Beginner 
 Teacher: So we saw that in Greek, we have gender, no? The nouns, words that we 
 put “the” or “a” in front of – so “the road”, “a road”, “the apology”, “an apology”. 
 Nouns can be either masculine, feminine, or neuter (no gender) in Greek. So, for 
@@ -1935,7 +1935,7 @@ Student: Για παραδίμε? Παράδειγμα.
 Teacher: Good. Παράδειγμα. Για παράδειγμα [ya parádhighma]. For example. 
 
 
-Greek Track 18 
+Greek Track - Level: Beginner 
 Teacher: So we said, βήτα [víta], the βήτα (Β/β), the letter that looks like a B, is 
  pronounced like a V sound in Greek, like in the word, book, which is … ? 
 Student: Βιβλίο [vivlío]. 
@@ -1995,7 +1995,7 @@ Teacher: Like a capital H. So we’ve seen a couple of examples of the small and
  letters can vary quite drastically in Greek. 
 
 
-Greek Track 19 
+Greek Track - Level: Beginner 
 Teacher: “The catastrophe”. Τhe catastrophe in Greek is, η καταστροφή [i katastrofí]. 
  Η καταστροφή. 
 Student: Η καταστροφή. 
@@ -2147,7 +2147,7 @@ Student: Καταφέρνεις να το κάνεις; [kataférnis na to káni
 Teacher: Καταφέρνεις να το κάνεις; 
 
 
-Greek Track 20 
+Greek Track - Level: Beginner 
 Teacher: So we saw in, καταστροφή (catastrophe) the use of κατ [kat], no, which can 
  be κατα [kata] like καταλαβαίνω, I understand, κατε [kate] like κατεβαίνω, I go 
  down. But we also have the second part of that word to look at: καταστροφή. We 
@@ -2275,7 +2275,7 @@ Teacher: Very good. So we have that structure, δεν το φέρνει, which i
  σου δεν το φέρνει; Very good. 
 
 
-Greek Track 21 
+Greek Track - Level: Beginner 
 Teacher: “I learn”, in Greek, is μαθαίνω [mathéno]. Μαθαίνω. 
 Student: Μαθαίνω. 
 Teacher: And this is of course where mathematics comes from. They are sharing a root, 
@@ -2408,7 +2408,7 @@ Teacher: Well literally, “I exist”, but actually in this song it’s used a 
  listen to it to practice your Greek. Υπάρχω. 
 
 
-Greek Track 22 
+Greek Track - Level: Beginner 
 Teacher: Καλημέρα [kaliméra]. 
 Student: Καλημέρα. 
 Teacher: Καλημέρα. Good day, we mentioned this, no? Literally “good day”. Καλή [kalí] is 
@@ -2518,7 +2518,7 @@ Student: Παραμένουμε εκεί [paraménume ekí].
 Teacher: Παραμένουμε εκεί. Very good. 
 
 
-Greek Track 23 
+Greek Track - Level: Beginner 
 Teacher: Now we’re going to learn to talk about the future in Greek. The word for 
  “will” in Greek like, I will do it, I will wait, is θα [tha]. Θα. 
 Student: Θα. 
@@ -2611,7 +2611,7 @@ Teacher: Ένας καφές. So for “a”, we have ένα [éna] and ένας
  looking very different to the other ones. 
 
 
-Greek Track 24 
+Greek Track - Level: Beginner 
 Teacher: How was the word for “will” in Greek, which is actually a contraction of, 
  θέλει να [théli na]? 
 Student: Θα [tha]. 
@@ -2741,7 +2741,7 @@ Teacher: Very good, θα υπογράφω. So we’re not really looking for dir
  majority of verbs in Greek do have an alternative form. 
 
 
-Greek Track 25 
+Greek Track - Level: Beginner 
 Teacher: If we say, I want to write well, I want to write well, what do we mean? What 
  do we refer to? Do we refer to an open, extended period of time, or do we refer 
  to a closed period of time? I want to write well. 
@@ -2811,7 +2811,7 @@ Teacher: Good. Θέλω να γράψω δύο βιβλία. Very good. So this 
  or closed period of time. 
 
 
-Greek Track 26 
+Greek Track - Level: Beginner 
 Teacher: How was, I learn, or I’m learning, related to the English “maths”? 
 Student: Μαθαίνω [mathéno]. 
 Teacher: Μαθαίνω. So μαθαίνω by itself is, I learn, or I’m learning, no? But after θα, θα 
@@ -2927,7 +2927,7 @@ Student: Θέλω να με καταλαβαίνεις [thélo na me katalavéni
  form of the verb. Θέλω να με καταλαβαίνεις. 
 
 
-Greek Track 27 
+Greek Track - Level: Beginner 
 Teacher: We were looking at how we use our two different verb forms in Greek, no? 
  And we’ve also noticed some patterns between the two forms in themselves, no? 
  So for example, we had, I learn: μαθαίνω [mathéno] and μάθω [mátho]. We had, I 
@@ -3013,7 +3013,7 @@ Teacher: Very good. Δεν θέλω να με πάρεις τηλέφωνο. I d
 Student: Okay. 
 
 
-Greek Track 28 
+Greek Track - Level: Beginner 
 Teacher: We also saw “I write”, as in photography, no (writing with light), which was 
  γράφω [ghráfo]. 
 Student: Γράφω [gráfo]. 
@@ -3120,7 +3120,7 @@ Student: Μπορεί να επιστρέψει ακόμα [borí na epistrépsi
 Teacher: Very good. Μπορεί να επιστρέψει ακόμα. Very good. 
 
 
-Greek Track 29 
+Greek Track - Level: Beginner 
 Teacher: Another time we have to think about whether we want our open or our 
  closed version of the verb … we’ve seen after να [na] after θα [tha]. Another time 
  that we will think about it is after the word “if”. If is easy to remember, because 
@@ -3203,7 +3203,7 @@ Teacher: Very good. Θέλω να μαγειρεύω πιο συχνά [thélo n
  That’s an ongoing feeling. I want to be cooking more often. Good. 
 
 
-Greek Track 30 
+Greek Track - Level: Beginner 
 Teacher: “The journey” is, το ταξίδι [to taksídhi]. 
 Student: Το ταξίδι. 
 Teacher: You might hear, κάλο ταξίδι [kálo taksídhi] in Greek, good journey. Like, bon 
@@ -3265,7 +3265,7 @@ Teacher: Very good. Ακόμα θέλω να δουλεύω. Very good. So we’
  might not know. 
 
 
-Greek Track 31 
+Greek Track - Level: Beginner 
 Teacher: “Agoraphobia”, in English, agoraphobia, describes the fear of open or public 
  spaces, like crowded spaces with a lot of people, no? We have the PH there, 
  suggesting to us that this is from Greek. And “phobia” is, φόβος [fóvos] in Greek, ο 
@@ -3362,7 +3362,7 @@ Teacher: Yeah, in this case we could have, Maybe it’s starting, maybe it start
  αρχίζω/ αρχίσω [archízo/ archíso]. Very good. 
 
 
-Greek Track 32 
+Greek Track - Level: Beginner 
 Teacher: So we saw the pattern of Z to S, between our standard and our closed 
  version of the verb, like in the verb, “I buy”, αγοράζω/αγοράσω [aghorázo/ 
  aghoráso]. We saw also with, “I start”, αρχίζω [archízo], and then the closed 
@@ -3528,7 +3528,7 @@ Teacher: And of course you can always ask whoever you’re practicing with, no? 
  say, θα … how is, θα ... , and that should trigger in them the closed version. 
 
 
-Greek Track 33 
+Greek Track - Level: Beginner 
 Teacher: The word for “perfect” in Greek, perfect, is τέλειο [télio]. Τέλειο. 
 Student: Τέλειο. 
 Teacher: How would you say, It is perfect? 
@@ -3665,7 +3665,7 @@ Student: Θα φτάσω σε λίγο [tha ftáso se lígho].
 Teacher: Good. Θα φτάσω σε λίγο. 
 
 
-Greek Track 34 
+Greek Track - Level: Beginner 
 Teacher: What was, I arrive, or I’m arriving? 
 Student: Φτάνω [ftáno]. 
 Teacher: Φτάνω. Good. And, Τhey arrive? 
@@ -3761,7 +3761,7 @@ Student: Αυτές οι μέρες [aftés i méres].
 Teacher: Αυτές οι μέρες. So αυτές [aftés] is they, and also these. 
 
 
-Greek Track 35 
+Greek Track - Level: Beginner 
 Teacher: So tell me again what was the word for she, and also the word for this, 
  referring to feminine things? 
 Student: Αυτή [aftí]. 
@@ -3862,7 +3862,7 @@ Student: Τα σπίτια [ta spítia].
 Teacher: Τα σπίτια, very good. 
 
 
-Greek Track 36 
+Greek Track - Level: Beginner 
 Teacher: The verb, “I lose”, or “I’m losing”, is χάνω [kháno]. Χάνω. 
 Student: Χάνω. 
 Teacher: So that’s spelt with the letter that looks like an X (χ), and you should be careful 
@@ -4006,7 +4006,7 @@ Student: Τα μαγαζιά θα έχουν κλείσει [ta maghaziá tha é
 Teacher: Very good. Τα μαγαζιά θα έχουν κλείσει, no? The shops will have closed. 
 
 
-Greek Track 37 
+Greek Track - Level: Beginner 
 Teacher: We saw that, αρχή [archí], αρχή, was “start”, or “the start”, η αρχή [i archí]. 
  And we had, υπάρχει [ipárchi], built of υπο [ipo] and αρχή, so like the “under-
  start”, meaning “there is”. Υπάρχει. 
@@ -4080,7 +4080,7 @@ Student: Οι ταινίες έχουν τελειώσει [i teníes ékhun tel
 Teacher: Very good. Οι ταινίες έχουν τελειώσει. Very good. 
 
 
-Greek Track 38 
+Greek Track - Level: Beginner 
 Teacher: Sometimes the difference between the open, the standard, and the closed, 
  the alternative version of the verb is totally random – totally random. And this is 
  because actually, historically, the two versions have often come from different 
@@ -4188,7 +4188,7 @@ Student: Έλα να μας δεις [éla na mas dhis].
 Teacher: Good. Έλα να μας δεις. Very good. 
 
 
-Greek Track 39 
+Greek Track - Level: Beginner 
 Teacher: How was, my friend? My friend. The word for friend, we can relate it to, like, 
  “philos” in philosophy, which means the love of wisdom. How is, my friend, the 
  friend my? 
@@ -4316,7 +4316,7 @@ Student: Γιατί δεν μου έχει πει ακόμα; [yatí dhen mu éc
 Teacher: Very good. Γιατί δεν μου έχει πει ακόμα; 
 
 
-Greek Track 40 
+Greek Track - Level: Beginner 
 Teacher: Δίνω [dhíno], δίνω is, “I give”, or “I’m giving”. Δίνω. 
 Student: Δίνω. 
 Teacher: Again with δέλτα [dhélta], no? Δίνω. So how would you say, We’re giving? 
@@ -4474,7 +4474,7 @@ Teacher: Very good. Μπορείς να μου πεις όταν η ταινία
  movie is finishing – finishing up – then we could say τελειώνει [telióni]. 
 
 
-Greek Track 41 
+Greek Track - Level: Intermediate 
 Teacher: Πρέπει [prépi], πρέπει in Greek means something like, “It is necessary”. We 
  see it’s a verb and it’s in the “he/she/it” form. Πρέπει. 
 Student: Πρέπει. 
@@ -4571,7 +4571,7 @@ Student: Θα σου πω όταν το διαγράψω [tha su po ótan to dhi
 Teacher: Θα σου πω όταν το διαγράψω. Very good. 
 
 
-Greek Track 42 
+Greek Track - Level: Intermediate 
 Teacher: So we have λέω [léo], which is “I say” or “I tell”, no, and πω [po], which is 
  the closed version. So we said that when we get these really crazy irregularities 
  between the standard and the closed form of the verbs, like in λέω, πω, for “I say” 
@@ -4657,7 +4657,7 @@ Student: Πρέπει να τις βλέπω πιο συχνά [prépi na tis vl
 Teacher: Very good. Πρέπει να τις βλέπω πιο συχνά. 
 
 
-Greek Track 43 
+Greek Track - Level: Intermediate 
 Teacher: So we saw some strange closed versions of the verbs, no, where the verb 
  changes completely in its closed form. So, for example, we had, I see, which is … ? 
 Student: Βλέπω [vlépo]. 
@@ -4810,7 +4810,7 @@ Teacher: If we are talking about a masculine thing, we will just use him. Πού
  αφήσει; Very good. 
 
 
-Greek Track 44 
+Greek Track - Level: Intermediate 
 Teacher: What was, the message? 
 Student: To μήνυμα [to mínima]. 
 Teacher: To μήνυμα. And, the house? 
@@ -4980,7 +4980,7 @@ Teacher: Very good. Πρέπει να τους αφήσω κάτι. And this wor
  good. Πρέπει να τους αφήσω κάτι. 
 
 
-Greek Track 45 
+Greek Track - Level: Intermediate 
 Teacher: What was, I have to, or It is necessary? 
 Student: Πρέπει [prépi]. 
 Teacher: Πρέπει. Good. How would you say, We have to eat them? And let’s talk about 
@@ -5100,7 +5100,7 @@ Teacher: Very good. Θα σου στείλω κάτι. So by now we are very wel
  translator, to try to see if it gives you some alternative form. But be careful, there. 
 
 
-Greek Track 46 
+Greek Track - Level: Intermediate 
 Teacher: “I put”, I put, in Greek is βάζω [vázo]. Βάζω. 
 Student: Βάζω. 
 Teacher: And the closed version is pretty strange, it’s βάλω [válo]. Βάλω. 
@@ -5196,7 +5196,7 @@ Teacher: Very good. Για να τα στείλουν. Τα έχω αφήσει 
  Greek, that come from English or whatever other language you speak. 
 
 
-Greek Track 47 
+Greek Track - Level: Intermediate 
 Teacher: If you want to say something like, “I haven’t done it in two years”, we say 
  this in a slightly different way in Greek. In Greek, we say, “I have two years, να 
  [na], I do it.” So, the main thing to notice here is that there’s no negative, no, like 
@@ -5338,7 +5338,7 @@ Teacher: Very good. Έχουν/έχουνε οχτώ χρόνια να δουλ�
  ékhune okhtó khrónia na dhulépsun/na dhulépsune]. Very good. 
 
 
-Greek Track 48 
+Greek Track - Level: Intermediate 
 Teacher: What was the word for, time or, a year? 
 Student: Χρόνος [khrónos]. 
 Teacher: Χρόνος. And we also said that, η χρονιά [i khroniá] can also be a year, like in, καλή 
@@ -5473,7 +5473,7 @@ Teacher: Very good. Έχω χρόνια να χορέψω. Δεν έχω χορ�
  long, because it’s built of so many different parts. 
 
 
-Greek Track 49 
+Greek Track - Level: Intermediate 
 Teacher: “Stomach”, stomach, again, we have the CH giving us a [k] sound, in Greek 
  is στομάχι [stomáchi]. Στομάχι. 
 Student: Στομάχι. 
@@ -5651,7 +5651,7 @@ Teacher: Very good. Very good. Το μόνο που θέλουμε. So, το μ�
  ourselves, is to stay by ourselves). Very well done.          
 
 
-Greek Track 50 
+Greek Track - Level: Intermediate 
 Teacher: How is, I want it? 
 Student: Το θέλω [to thélo]. 
 Teacher: Το θέλω. But what if you mean, like, the movie, which is feminine, η ταινία [i 
@@ -5760,7 +5760,7 @@ Teacher: Very good. No? Far from her. Tην πόλη [tin póli]. Good. Το μ�
  they are behaving like, “she” or “her”, like “he”, or like “him”? 
 
 
-Greek Track 51 
+Greek Track - Level: Intermediate 
 Teacher: How do you say, my friend? 
 Student: Ο φίλος μου [o fílos mu]. 
 Teacher: Ο φίλος μου. Or a female friend? 
@@ -5942,7 +5942,7 @@ Student: Μου αρέσει να μένω στην πόλη με την φίλ�
 Teacher: Very good. Μου αρέσει να μένω στην πόλη με την φίλη μου. Very good. 
 
 
-Greek Track 52 
+Greek Track - Level: Intermediate 
 Teacher: I like it. It pleases me? 
 Student: Μου αρέσει [mu arési]. 
 Teacher: Μου αρέσει. I don’t like it. It doesn’t please me. 
@@ -6102,7 +6102,7 @@ Teacher: Very good. Στην Ελλάδα, no? We have a noun here, “the Greec
  στην Ελλάδα [dhen katalavéno tus dhrómus stin eládha]. 
 
 
-Greek Track 53 
+Greek Track - Level: Intermediate 
 Teacher: What was, friend, or, the friend, for a masculine friend? 
 Student: Ο φίλος [o fílos]. 
 Teacher: Ο φίλος. And, the road? 
@@ -6218,7 +6218,7 @@ Teacher: Good. Δεν μπορώ να το βρω μόνος μου. Or, if we w
  mu]. 
 
 
-Greek Track 54 
+Greek Track - Level: Intermediate 
 Teacher: We can recap all of what we’ve seen about nouns changing in different 
  ways, depending on how they’re behaving, with a very useful word. This word is, 
  δικός [dhikós]. Δικός. 
@@ -6296,7 +6296,7 @@ Teacher: Very good. Πού είναι οι δικές μου; Οι δικές μ
  “case”. 
 
 
-Greek Track 55 
+Greek Track - Level: Intermediate 
 Teacher: What is, I leave, like leaving something or leaving somebody? 
 Student: Αφήνω [afíno]. 
 Teacher: Αφήνω. And the closed version of, αφήνω? 
@@ -6427,7 +6427,7 @@ Teacher: Very good. Έχεις τον λογαριασμό; Good. And I should a
  for the question mark in Greek. 
 
 
-Greek Track 56 
+Greek Track - Level: Intermediate 
 Teacher: What was the word for, day? 
 Student: Μέρα [méra]. 
 Teacher: Μέρα. Good. Or, η μέρα [i méra], the day. Or, a day? 
@@ -6599,7 +6599,7 @@ Teacher: Very good. Προτιμώ τους φτηνότερους. And if you d
  τους πιό φτηνούς [protimó tus pyo ftinús]. Very good. 
 
 
-Greek Track 57 
+Greek Track - Level: Intermediate 
 Teacher: What was, I give? 
 Student: Δίνω [dhíno]. 
 Teacher: Δίνω. And the closed version of, δίνω? 
@@ -6751,7 +6751,7 @@ Teacher: Δρόμους. What did she draw? Δρόμους. But you will also fi
  go and find “δρόμους”. Δρόμοι είναι. So you can do that too. 
 
 
-Greek Track 58 
+Greek Track - Level: Intermediate 
 Teacher: How do you say, Maria, in Greek? 
 Student: Maria. 
 Teacher: Yeah. Or, the Maria, no? 
@@ -6882,7 +6882,7 @@ Teacher: Very good. Έχω κάτι να δείξω του Γιώργου [ékho
  have something to show to Giorgos. 
 
 
-Greek Track 59 
+Greek Track - Level: Intermediate 
 Teacher: So we saw μόνος [mónos] as “alone”, no? Μόνος, μόνη, μόνο [mónos, 
  móni, móno], and we can have, μόνος μου [mónos mu], “by myself”. And we saw, 
  δικός [dhikós] like, “my own”, or “my one”. Δικός μου, δικό μου, δική μου [dhikós 
@@ -7027,7 +7027,7 @@ Teacher: Zωγραφίσω, correct. But the Z (“zee”), the “zed” (Ζ/ζ
  pékso], “I play”. Very good. 
 
 
-Greek Track 60 
+Greek Track - Level: Intermediate 
 Teacher: So, I like it, or, It is pleasing to me, is? 
 Student: Μου αρέσει [mu arési]. 
 Teacher: Μου αρέσει. I like it. It is pleasing to me, no? Aρέσει, “it is pleasing”; μου, “to 
@@ -7108,7 +7108,7 @@ Student: Δεν τα περίμενες; [dhen ta perímenes?].
 Teacher: Δεν τα περίμενες; Good. 
 
 
-Greek Track 61 
+Greek Track - Level: Intermediate 
 Teacher: How would you say, I’m waiting outside? 
 Student: Περιμένω έξω [periméno ékso]. 
 Teacher: Περιμένω έξω. I’m waiting outside. Περιμένω έξω. And this can also be like, I will 
@@ -7250,7 +7250,7 @@ Teacher: Good. Δεν της αρέσουμε. So again a very small difference 
  us – Δεν της αρέσαμε, and She doesn’t like us – Δεν της αρέσουμε. Very good. 
 
 
-Greek Track 62 
+Greek Track - Level: Intermediate 
 Teacher: So, in the past, we’ve seen that we have [e] (ε) for, he/she and it, and also 
  for you, no? We use this [e] sound, but we add something to it for you. What do 
  we add? 
@@ -7396,7 +7396,7 @@ Teacher: Because I don’t like it. You said, Because I didn’t like it; that�
  don’t like it. Both fit there. 
 
 
-Greek Track 63 
+Greek Track - Level: Intermediate 
 Teacher: So we’ve seen how, in the simple past, no, we have two changes. We have E 
  (ε) or an A (α) ending, with our different additional endings for people, like an N 
  (ν), which corresponds to “they”, or the ME (με) for “we”, or the S (ς) for “you”; 
@@ -7530,7 +7530,7 @@ Student: Το κάνaνε την Πέμπτη [to kánane tin pémpti].
 Teacher: Very good. Το κάνaνε (το έκαναν [to ékanan]), την Πέμπτη. Very good. 
 
 
-Greek Track 64 
+Greek Track - Level: Intermediate 
 Teacher: “I play”, I play, was παίζω [pézo], probably related to, παιδί [pedhí], no, the 
  word for “child”, as the [e] sound in παίζω and παιδί is both written like AI (αι). So 
  they may be related. Παίζω [pézo] – I play. 
@@ -7660,7 +7660,7 @@ Student: Πρέπει να άλλαξε [prépi na álakse].
 Teacher: Very good. Πρέπει να άλλαξε. Very good. 
 
 
-Greek Track 65 
+Greek Track - Level: Intermediate 
 Teacher: Now that we have the past, now that we dominate the past in Greek, we 
  can also do something really cool with things that we already know. We can make 
  the “would” time in Greek – to say, for example, “I would change it”. No? First we 
@@ -7792,7 +7792,7 @@ Student: Οh. It’s, τα ρούχα [ta rúkha]. Θα έπρεπε να τα �
 Teacher: Good. Θα έπρεπε να τα αλλάξεις. Well done. 
 
 
-Greek Track 66 
+Greek Track - Level: Intermediate 
 Teacher: What was, I give? 
 Student: Δίνω [dhíno]. 
 Teacher: Δίνω. And the closed version? 
@@ -7923,7 +7923,7 @@ Student: Ah ...
 Teacher: Θα έπρεπε να με πάρεις τηλέφωνο [tha éprepe na me páris tiléfono]. Good. 
 
 
-Greek Track 67 
+Greek Track - Level: Intermediate 
 Teacher: What was, Have to, or, It is necessary? 
 Student: Πρέπει [prépi]. 
 Teacher: Πρέπει. And the past of that? 
@@ -8084,7 +8084,7 @@ Teacher: Είδες, which you can also use like as an expression, no? Like, “
  in their closed form, like είπα [ípa] – “I said”; είδα [ídha] – “I saw”. 
 
 
-Greek Track 68 
+Greek Track - Level: Intermediate 
 Teacher: What was the word for, I am? 
 Student: Είμαι [íme]. 
 Teacher: Είμαι. Good. And, I will be? 
@@ -8231,7 +8231,7 @@ Student: Δεν είδα έναν άλλον [dhen ídha énan álon].
 Teacher: Δεν είδα έναν άλλον. Very good. 
 
 
-Greek Track 69 
+Greek Track - Level: Intermediate 
 Teacher: So we’ve seen how we need the accent third from the end, in the past tense, in 
  Greek. And if we don’t have three syllables, we will add a syllable onto the 
  beginning, to make the verb longer. And this is usually an E (ε), but it can also be 
@@ -8358,7 +8358,7 @@ Teacher: Very good. Αν είχες αγοράσει εισιτήριο θα τ�
  tha to íches dhi]. 
 
 
-Greek Track 70 
+Greek Track - Level: Advanced 
 Teacher: “I find”, I find, in Greek is βρίσκω [vrísko]. Βρίσκω. 
 Student: Βρίσκω. 
 Teacher: I can’t find it. So, you don’t need to say “can’t”, really. A lot of the time, in Greek, 
@@ -8482,7 +8482,7 @@ Student: Τι θα έτρωγες; [ti tha étroyes?].
 Teacher: Good. Τι θα έτρωγες; 
 
 
-Greek Track 71 
+Greek Track - Level: Advanced 
 Teacher: “I think”, like, “I believe”, you know like, “I think that”, “I believe that”, is 
  νομίζω [nomízo]. Νομίζω. 
 Student: Νομίζω. 
@@ -8714,7 +8714,7 @@ Teacher: Good. Αλλά δεν φτάσανε. Αλλά δεν έφτασαν [a
  símera, alá dhen ftásane, alá dhen éftasan]. 
 
 
-Greek Track 72 
+Greek Track - Level: Advanced 
 Teacher: We also have a plural “you” in Greek, so like, “you all”, to address more 
  than one person at the same time. The ending for this is “ετε” [ete] in the present, 
  and “ατε” [ate] in the past. So how would you say, You guys want? 
@@ -8929,7 +8929,7 @@ Teacher: Να είστε. Good. It’s “να είστε”, contracted, so, �
  “Thank you”; “Be well”. 
 
 
-Greek Track 73 
+Greek Track - Level: Advanced 
 Teacher: What was, I can, in Greek? 
 Student: Μπορώ [boró]. 
 Teacher: Μπορώ. Good. And this verb has the accent on the end, no, as opposed to the 
@@ -9134,7 +9134,7 @@ Teacher: Γειά μας.
  [prospathó] – “I try” – προσπαθήσω [prospathíso]; and many, many more. 
 
 
-Greek Track 74 
+Greek Track - Level: Advanced 
 Teacher: Πουλάω [puláo], like in “monopoly”, like μόνο-πουλάω [móno-puláo], is “I 
  sell”. Πουλάω – “I sell”. 
 Student: Πουλάω. 
@@ -9287,7 +9287,7 @@ Teacher: Πού ζήσατε;
  verbs. Very good. 
 
 
-Greek Track 75 
+Greek Track - Level: Advanced 
 Teacher: So for plural “you” we have “ετε” [ete], but we mentioned that with verbs 
  with their accent on the end, we could have “είτε” [íte] or “άτε” [áte]. So far we 
  saw some “είτε” examples, no: μπορείτε [boríte], προσπαθείτε [prospathíte], 
@@ -9463,7 +9463,7 @@ Teacher: Αγαπήσαμε.
  different forms that co-exist. 
 
 
-Greek Track 76 
+Greek Track - Level: Advanced 
 Teacher: If you want to say something like, “I just told you”, you can use the word 
  μόλις [mólis], in Greek. Mόλις. So you would say, “Mόλις, I told you”. 
 Student: Mόλις σου είπα [mólis su ípa]. 
@@ -9647,7 +9647,7 @@ Teacher: Very good. Δεν μπορώ να το εξηγήσω. We have the [gh]
  I (η) of “-ήσω” [-íso]". Δεν μπορώ να το εξηγήσω. Very good. 
 
 
-Greek Track 77 
+Greek Track - Level: Advanced 
 Teacher: I don’t know if you’ve heard the word “cathartic”, or “catharsis” in English. 
 Student: Ah yeah, I have. 
 Teacher: I hadn’t until my twenties, when someone described a “cathartic experience”, 
@@ -9864,7 +9864,7 @@ Teacher: Σίγουρα. So, if you don’t say, Are you sure?, but you just say
  agree: σίγουρα. 
 
 
-Greek Track 78 
+Greek Track - Level: Advanced 
 Teacher: What was the word for, new, like in “neo-colonialism”? 
 Student: Νέος [néos]. 
 Τ: Νέος, the masculine, νέος. We could also have καινούργιος [kenúrios]. 
@@ -9997,7 +9997,7 @@ Student: Είμαστε οι καλύτεροι [ímaste i kalíteri].
 Teacher: Είμαστε οι καλύτεροι. Very good. 
 
 
-Greek Track 79 
+Greek Track - Level: Advanced 
 Teacher: So “Greek” was Ελληνικά [eliniká], no, the language, Ελληνικά. And this is 
  something like “Hellenics”, “the Hellenics” – Ta Ελληνικά [ta eliniká] – like neuter 
  plural nouns together to get the language: τα Ελληνικά. But, Ελληνικά, or 
@@ -10122,7 +10122,7 @@ Student: Το κέντρο είναι κοντά [to kéndro íne kondá].
 Teacher: Το κέντρο είναι κοντά. Είναι κοντά το κέντρο [íne kondá to kéndro]. Very good. 
 
 
-Greek Track 80 
+Greek Track - Level: Advanced 
 Teacher: We saw μακρύς [makrís], which means “long”, and then, μακριά [makriá] 
  gives us “far”, or “far away”. 
 Student: Μακριά. 
@@ -10247,7 +10247,7 @@ Student: Λιγότερη ζάχαρη [lighóteri zákhari].
 Teacher: Λιγότερη ζάχαρη. 
 
 
-Greek Track 81
+Greek Track - Level: Advanced
 Teacher: Again, what was the word for, more? 
 Student: Πιο [pyo]. 
 Teacher: And, close? 
@@ -10440,7 +10440,7 @@ Teacher: Very good. Έχω πολλούς φίλους. Ah. “Πολλούς”
  doing something else. 
 
 
-Greek Track 82
+Greek Track - Level: Advanced
 Teacher: What was, I like, or, It is pleasing to me? 
 Student: Μου αρέσει [mu arési]. 
 Teacher: Μου αρέσει. And, I liked it, or, It was pleasing to me? 
@@ -10613,7 +10613,7 @@ Teacher: Good. And when you put the “-ήσ-” [-ís-], you also doubled the �
  χρησιμοποιήσετε; Very good. 
 
 
-Greek Track 83
+Greek Track - Level: Advanced
 Teacher: How do you say, I want, in Greek? 
 Student: Θέλω [thélo]. 
 Teacher: Θέλω. And, Υou want? 
@@ -10758,7 +10758,7 @@ Teacher: Αh, okay, well both work: αγαπούσες, αγάπησες [aghap�
  την αγάπησες (την αγαπούσες) [úte kan tin aghápises (tin aghapúses)]. 
 
 
-Greek Track 84
+Greek Track - Level: Advanced
 Teacher: What was “I speak”? 
 Student: Μιλάω [miláo]. 
 Teacher: Μιλάω. And, I spoke? 
@@ -10924,7 +10924,7 @@ Teacher: Very good. Δεν θα μπορούσα να τον αγαπήσω. So 
  μπορούσα να τον αγαπήσω [dhen tha borúsa na ton aghapíso]. 
 
 
-Greek Track 85
+Greek Track - Level: Advanced
 Teacher: How is, What are you doing?, or, How are you?, used like, How are you? 
 Student: Τι κάνεις; [ti kánis?]. 
 Teacher: Τι κάνεις; And what if you are talking to more than one person? 
@@ -11030,7 +11030,7 @@ Student: Θέλω να μου απαντήσετε μέχρι αύριο [thélo
 Teacher: Very good. Θέλω να μου απαντήσετε μέχρι αύριο. 
 
 
-Greek Track 86
+Greek Track - Level: Advanced
 Teacher: “The road” in Greek was … ? 
 Student: O δρóμος [o dhrómos]. 
 Teacher: O δρóμος, no, like hippodrome, like syndrome, no, (“with road”), which refers to, 
@@ -11168,7 +11168,7 @@ Teacher: Ξέρετε να οδηγείτε; Very good. And in both of the “-�
  na odhiyíte?]. Very good. 
 
 
-Greek Track 87
+Greek Track - Level: Advanced
 Teacher: What was the word for, there, in Greek? 
 Student: Εκεί [ekí]. 
 Teacher: Εκεί. And, that one, masculine, for example? 
@@ -11365,7 +11365,7 @@ Teacher: Very good. Τα προβλήματα του κόσμου. So you can re
  problems of the world”. Τα προβλήματα του κόσμου. Very good. 
 
 
-Greek Track 88
+Greek Track - Level: Advanced
 Teacher: “I go”, I go, in Greek is, πηγαίνω [piyéno]. 
 Student: Πηγαίνω. 
 Teacher: Πηγαίνω. 
@@ -11487,7 +11487,7 @@ Teacher: So forward, no? But it moves; it gets closer to the end. Ο δάσκα�
  rather than worrying about memorising them all. 
 
 
-Greek Track 89
+Greek Track - Level: Advanced
 Teacher: So we’ve seen various situations in which the accent moves in Greek to 
  show us something: be it in the past, when we pull the accent back; be it with the 
  neuter plural, when we add “τα”, instead of changing O (o) to A (α); with the 
@@ -11598,7 +11598,7 @@ Teacher: Very good ... του δασκάλου. So we change the accent twice he
  various shifts in accent. 
 
 
-Greek Track 90
+Greek Track - Level: Advanced
 Teacher: What was, I go, or, I’m going, in Greek? 
 Student: Πηγαίνω [piyéno]. 
 Teacher: Πηγαίνω. Or? 
@@ -11744,7 +11744,7 @@ Teacher: Very good. ‘Εχουμε κάτι για όλες τις μέρες �
  méres]. And then a different [tis] (της) – της εβδομάδας – “of the week”. 
 
 
-Greek Track 91
+Greek Track - Level: Advanced
 Teacher: So we can extend this idea of possession like in, το σπίτι του [to spíti tu], 
  with other nouns, like in, το σπίτι του Γιώργου [to spíti tu yórghu], or, το σπίτι του 
  Μίχαλη [to spíti tu mikháli]. And we’ve seen that with the feminine as well, using 
@@ -11896,7 +11896,7 @@ Student: Aυτού του παιδιού [aftú tu pedhiú]. Το παιχνίδ
 Teacher: Very good. Το παιχνίδι αυτού του παιδιού είναι καταπληκτικό. Good. 
 
 
-Greek Track 92
+Greek Track - Level: Advanced
 Teacher: What was, I go, or, I’m going? 
 Student: Πáω [páo] or, πηγαíνω [piyéno]. 
 Teacher: Good; πηγαíνω, or, πάω. And we saw, πηγαίνουμε [piyénume], no, for, we go (or, 
@@ -12011,7 +12011,7 @@ Teacher: Very good. Δεν το έδωσε σ’ εμένα [dhen to édhose s�
  don’t write them either; you have an apostrophe there. Δεν το έδωσε σ’ εμένα. 
 
 
-Greek Track 93
+Greek Track - Level: Advanced
 Teacher: So we saw, με [me] and εμένα [eména], σε [se] and εσένα [eséna], αυτήν 
  [aftín] instead of, την [tin], and we’ve just seen, σ’ εμένα [s’eména] – “to me”. So 
  “σε” [se] is one of those small words that show position or movement, that are 
@@ -12135,7 +12135,7 @@ Teacher: Good. Because we have “μου” [mu], rather than “με” [me], w
  aftokínitótu s’eména]. Very good. 
 
 
-Greek Track 94
+Greek Track - Level: Advanced
 Teacher: We’ve seen various ways accents might move around in Greek. We saw that 
  it might happen for the past, no? When our accent isn’t third from the end in the 
  past, we’ll put it there. We’ve seen how with longer words – well, longer words 
@@ -12283,7 +12283,7 @@ Teacher: Lemons. Good. And this the plural, no? Like λεμόνι, λεμόνι�
  to derive more meanings from a limited amount of sounds. 
 
 
-Greek Track 95
+Greek Track - Level: Advanced
 Teacher: What was the word for, telephone? 
 Student: Τηλέφωνο [tiléfono]. 
 Teacher: Τηλέφωνο. Good. Or, το τηλέφωνο [to tiléfono], and we have the accent there on 
@@ -12438,7 +12438,7 @@ Teacher: Good. Τα παιδιά των γυναικών. So again, another situ
  also change the ending of the noun to “ων” [on], for all genders. 
 
 
-Greek Track 96
+Greek Track - Level: Advanced
 Teacher: You remember, how was, The teacher? 
 Student: Ο δάσκαλος [o dháskalos]. 
 Teacher: Ο δάσκαλος. How would you say, The friends of the teachers (the teachers’ 
@@ -12540,7 +12540,7 @@ Teacher: Ξέρετε τι σνμαίνουν τα ονόματά σας; Very g
  of what we’re saying, when we speak another language. 
 
 
-Greek Track 97
+Greek Track - Level: Advanced
 Teacher: What was, I write? 
 Student: Γράφω [ghráfo]. 
 Teacher: Γράφω. And the closed version? 
@@ -12738,7 +12738,7 @@ Student: Όπως [ópos].
 Teacher: Όπως. Good. 
 
 
-Greek Track 98
+Greek Track - Level: Advanced
 Teacher: What was, I take? 
 Student: Παίρνω [pérno]. 
 Teacher: Παίρνω. And the closed version? 
@@ -12890,7 +12890,7 @@ Teacher: Μην το κάνεις. Much more simple, no? So with our positive or
  [kánde]. 
 
 
-Greek Track 99
+Greek Track - Level: Advanced
 Teacher: How do you say, Take it – to one person? 
 Student: Πάρ’ το [pár’to]. 
 Teacher: Πάρ’ το. And what if you are talking to more than one person? 
@@ -13019,7 +13019,7 @@ Teacher: Yeah, exactly, no? See theatre for  euros, or, “with  euros” in Gre
  ευρώ [me dhéka evró]. Very good. 
 
 
-Greek Track 99
+Greek Track - Level: Advanced
 Teacher: What was, I go, or, I’m going? 
 Student: Πηγαίνω [piyéno]. 
 Teacher: Πηγαίνω. I was going? 

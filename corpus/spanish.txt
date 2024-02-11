@@ -1,4 +1,4 @@
-Spanish Track 1
+Spanish Track - Level: Beginner
 Teacher: English and Spanish are two related languages. English is considered a Germanic language,
    but it’s kind of half Latin. We have a huge amount of Latin vocabulary in English and this Latin
    vocabulary we can convert it over to Spanish really easily because Spanish is practically Modern
@@ -118,7 +118,7 @@ Teacher: Yeah, that’s right. So with structure, with the building, when we’r
    through. But with vocabulary, we can happily guess and try. Imagine we said verba for example,
    and they would look at us funny and they would go “ah verbo” and when that person says “ah,
    verbo” then we learn “oh ok this is the right word”. And it’s the best way to learn quickly.
-Spanish Track 3
+Spanish Track - Level: Beginner
 Teacher: So what was is or he is, she is, it is?
 Student: Es.
 Teacher: Es. Good, we can use this with some other convertible words as well to make sentences. Another
@@ -206,7 +206,7 @@ Teacher: Flexible. Good. So you can't do this - like if you say doable for examp
    that we might find an exception or we might use one that doesn't work. And feeling comfortable
    about that possibility of making that error is what really allows you to learn quickly.
    Because with this experimentation, you find very quickly the words that you can use.
- Spanish Track 4
+ Spanish Track - Level: Beginner
 Teacher: How would you say urgent?
 Student: Urgente.
 Teacher: Good, Urgente. Urgente. How would you say urgently?
@@ -332,7 +332,7 @@ Teacher: Good, quiero prepararme. I want to prepare me. I want to prepare myself
    (same word), sound more everyday, colloquial. Now we should bear in mind that that’s in English,
 and Latin words in Spanish, which is more Latin, of course don’t sound formal, they just sound
 normal.
-Spanish Track 5
+Spanish Track - Level: Beginner
 Teacher: You might have noticed we are not using the word for I. Quiero by itself means I want. There is a
    word for I, the word for I is yo. Y-o.
 Student: Yo.
@@ -466,7 +466,7 @@ Student: Inconsistencia.
 Teacher: Good, Incongruence:
 Student: Incongruencia.
 Teacher: Yes.
-Spanish Track 6
+Spanish Track - Level: Beginner
 Teacher: What do you think intento might mean? Quiero is I want, and this -o is showing that it’s I. If you
    heard intento, what do you think it might mean?
 Student: Try?
@@ -572,7 +572,7 @@ Teacher: Virus. It’s actually the same word, you are just pronouncing it exact
    Convenient:
 Student: Conveniente?
 Teacher: Conveniente. Good.
-Spanish Track 7
+Spanish Track - Level: Beginner
 Teacher: How would you say I want to carry on? Now you think “carry on, I don't know this!” So, one of
    the skills we want to really make use of these convertible words is to find the Latin equivalent of
    carry on. I want to carry on, I want to go on, I want to…? What is the Latin word that we could
@@ -720,7 +720,7 @@ Student: Mostrarte algo.
 Teacher: Good. Quiero pasar a, because we had the verb of movement, mostrarte algo. So if we are
   connecting a verb of movement to another verb we connect using this extra a, to. Quiero pasar a
   mostrarte algo. Good.
- Spanish Track 8
+ Spanish Track - Level: Beginner
 Teacher: What was again the word then for it or for him or for you (formal)?
 Student: Lo.
 Teacher: Lo. If we make this feminine, so we change the o to an a, and we're going to see other examples
@@ -823,7 +823,7 @@ Student: Las.
 Teacher: Good.
 Student: Debo identificarlas.
 Teacher: Good.
-Spanish Track 9
+Spanish Track - Level: Beginner
 Teacher: To know in Spanish is saber. Saber.
 Student: Saber.
 Teacher: Saber. You may have heard in British slang He's got savvy, she's got savvy. Have you ever heard
@@ -971,7 +971,7 @@ Student: Explicarte.
 Teacher: Something:
 Student: Algo.
 Teacher: Very good. No intento justificarme, pero quiero explicarte algo. Very good. Well done.
-Spanish Track 10
+Spanish Track - Level: Easy
 Teacher: How would you say to ventilate?
 Student: Ventilar.
 Teacher: Yeah. Ventilación-ventilar. How would you say to separate?
@@ -1142,7 +1142,7 @@ Student: Mañana.
 Teacher: Good. So I’m coming tomorrow:
 Student: Vengo mañana.
 Teacher: Vengo mañana. Very good.
- Spanish Track 11
+ Spanish Track - Level: Easy
 Teacher: So we saw how our “to" form of the verb: to come, to eat, to tolerate. How would to tolerate be?
 Student: Toleration-toleración-tolerar.
 Teacher: Exactly, tolerar. Good. So our “to” form ends with an r and it's always going to be -ar, -er or -ir.
@@ -1291,7 +1291,7 @@ Student: Debo invitarlo.
 Teacher: Or?
 Student: Lo debo invitar.
 Teacher: Good. So that's the deal with these little words, where we can put them. Good.
-Spanish Track 12
+Spanish Track - Level: Easy
 Teacher: So, we're looking at -ar verbs and how they work, and we are changing them for the different
    people. Let's make a recap. How would you say to contaminate?
 Student: Contaminar.
@@ -1516,7 +1516,7 @@ Student: No nos lo venden.
 Teacher: Good. No nos lo venden. Why don't they sell it to us?
 Student: ¿Por qué no nos lo venden?
 Teacher: Good. ¿Por qué no nos lo venden? Very good.
-Spanish Track 13
+Spanish Track - Level: Easy
 Teacher: To do, or to make in Spanish is hacer. And it has a silent h. It's h-a-c-e-r. So in most of Spain
    actually that would sound ha/th/er. But ha/s/er in most of the Spanish speaking world. What verb
    type is it? What is the ending?
@@ -1652,7 +1652,7 @@ Student: Necesario.
 Teacher: Contrary:
 Student: Contrario.
 Teacher: Good.
- Spanish Track 14
+ Spanish Track - Level: Easy
 Teacher: What was to know?
 Student: Saber.
 Teacher: Saber. Good. What would I know be, if it follows our rules?
@@ -1879,7 +1879,7 @@ Teacher: Quiero comer:
 Student: I want to eat.
 Teacher: Good. So these verbs: quiero, voy a, tengo que, puedo, debo, they're very useful because we can
    just put the “to” form after.
-Spanish Track 15
+Spanish Track - Level: Easy
 Teacher: What was the word for what?
 Student: Qué.
 Teacher: And do you remember how was to pass?
@@ -2001,7 +2001,7 @@ Student: Lo pierdo.
 Teacher: Lo pierdo. Good. I lose them:
 Student: Los pierdo.
 Teacher: Los pierdo. Good.
- Spanish Track 16
+ Spanish Track - Level: Easy
 Teacher: Comenzar, what do you think that means? Comenzar:
 Student: To commence.
 Teacher: To commence. Or?
@@ -2106,7 +2106,7 @@ Teacher: Good. Muestra. We don't need to roll the r here because it's just one r
   it shows, she shows, you (formal) show. But una muestra is a sample. They show:
 Student: Muestran.
 Teacher: Muestran. Good.
- Spanish Track 17
+ Spanish Track - Level: Easy
 Teacher: So we've seen how two sounds in the verbs in the present tense might split when we put pressure
    on them. We’ve seen how e might become ie, so for example we have querer which means to
    want, but I want is:
@@ -2316,7 +2316,7 @@ Student: Cerramos.
 Teacher: Good. So we're seeing that really this issue of the e's and the o's splitting is an issue about stress,
    and it’s only when we stress them down that they split under that pressure. When we don’t, they
    are intact.
-  Spanish Track 18
+  Spanish Track - Level: Easy
 Teacher: So for -ar verbs, we have -amos in the present for we. Now for -er verbs, we have -emos for the
    we, and for -ir verbs we have -imos. This is the only time in the whole language that we find a
    difference between -er and -ir verbs. They're one group, but here - and it's the only time in the
@@ -2417,7 +2417,7 @@ Teacher: Perdemos. Good. The word for always in Spanish is siempre. So how would
   lose? (You can put the siempre before or afterwards.)
 Student: Siempre perdemos.
 Teacher: Siempre perdemos. We always lose. Or perdemos siempre.
-Spanish Track 19
+Spanish Track - Level: Easy
 Teacher: We said that the word for always was siempre.
 Student: Siempre.
 Teacher: Good. Now if you know Italian or some other Latin language, maybe you have something like
@@ -2510,7 +2510,7 @@ Teacher: Alcohol. Good. Because we don't pronounce h in Spanish, do we? No como 
    how would that be?
 Student: Como carne y tomo alcohol.
 Teacher: Good.
-Spanish Track 20
+Spanish Track - Level: Easy
 Teacher: We mentioned that with future context we can talk about the future using the present. For example,
    we had tomorrow which was:
 Student: Mañana.
@@ -2647,7 +2647,7 @@ Teacher: Good. Nos vemos la semana que viene. So you see it's not important to r
   glazing over the problem. What we want to internalize is the process of “how do I find this". So,
   we've seen that we can use the present to talk about the future using either ir a: to go to; voy a,
   vamos a, va a; or using some future context.
-Spanish Track 21
+Spanish Track - Level: Easy
 Teacher: So, we have seen how we can use the present to talk about the future in Spanish using voy a, vamos
    a, or using some future context (pronto- soon, mañana- tomorrow, la semana que viene- the
    week that comes- next week).
@@ -2826,7 +2826,7 @@ Teacher: Sometimes I am going to build you up step by step, sometimes I am just 
   about it, dividing the sentence up into each individual thing we need to think about. First, she has,
   ha. She has taken, ha tomado. She has taken it. It is lo, where do I put the lo? Before the changed
   verb. Lo ha tomado.
-Spanish Track 22
+Spanish Track - Level: Easy
 Teacher: So, we were learning how we can use the present to talk about the past, using haber, which is to
    have, in sentences like I have gone, I have eaten. What do you think terminar means?
    Terminar:
@@ -3004,7 +3004,7 @@ Teacher: Good. Ellos me ven. So we are understanding that we have two separate g
    important words. The set of: yo, él, ella, ellos, ellas, nosotros, tú, and usted. Yo veo. Tú ves.
    Usted/él/ella ve. Ellos or ellas ven. And nosotros vemos. Then we have the other set of words -
    me, lo, la, los, las, nos, te.
-Spanish Track 23
+Spanish Track - Level: Easy
 Teacher: So, I want us to run through the forms of haber, this to have that we use to go into the past. We
   said that we can remember them by looking at the two vowel sounds that we have inside the word
   haber. So give me I have and we have:
@@ -3090,7 +3090,7 @@ Teacher: Good. Nos hemos perdido. And what if you wanted to say WE have got lost
   ourselves?
 Student: Nosotros nos hemos perdido.
 Teacher: Good. Nosotros nos hemos perdido. Good.
-Spanish Track 24
+Spanish Track - Level: Easy
 Teacher: The word to give in Spanish is dar. D-a-r, dar.
 Student: Dar.
 Teacher: Dar. Good. I give is doy. So it’s like boy ending –oy. Doy.
@@ -3175,7 +3175,7 @@ Student: So it’s lo and it’s te.
 Teacher: Good. And in what order do they come?
 Student: It's te lo quiero dar.
 Teacher: Good.
-Spanish Track 25
+Spanish Track - Level: Easy
 Teacher: So we’ve seen how me can mean me, to me or myself and te can mean you, to you or yourself. And
    nos can mean us, to us or ourselves. So we want to resist the temptation to translate this to. So for
    example: he speaks to me, we don’t need this to because me, me, can mean me, to me or myself.
@@ -3332,7 +3332,7 @@ Student: Nos quedamos.
 Teacher: Nos quedamos. Good. WE are staying:
 Student: Nosotros nos quedamos.
 Teacher: Nosotros nos quedamos. Very good.
- Spanish Track 26
+ Spanish Track - Level: Easy
 Teacher: So again, You're staying here. Let's make that. You're staying here, informal.
 Student: Te quedas aquí.
 Teacher: Good. Te quedas aquí. You're not staying here:
@@ -3457,7 +3457,7 @@ Teacher: So how do you say How do you call yourself?:
 Student: ¿Cómo te llamas?
 Teacher: Good. ¿Cómo te llamas? You might have heard this around and not understood actually how it's
   being constructed. Now we understand it. It's How do you call yourself? ¿Cómo te llamas?
-Spanish Track 27
+Spanish Track - Level: Easy
 Teacher: How would you say the situation in Spanish?
 Student: La situación.
 Teacher: Good. -ión is a feminine ending, so the word takes la for the. La situación. Good. Now in Spanish,
@@ -3605,7 +3605,7 @@ Teacher: Good. He comprado un, (masculine word), un, un auto rojo. How would you
    myself a red car?
 Student: Me he comprado un auto rojo.
 Teacher: Me he comprado un auto rojo. I have bought myself a red car. Very good.
-  Spanish Track 28
+  Spanish Track - Level: Easy
 Teacher: Spanish dialects don't change very much. Slang changes a lot, but Spanish is pretty standard. It's
    not like Arabic for example, where you have such a different Arabic in Morocco to Egypt, for
    example. All of the different Spanishes are completely mutually intelligible. But in slang, you get
@@ -3759,7 +3759,7 @@ Student: Son nativos.
 Teacher: Good. Son nativos. And what if it was a female group?
 Student: Son nativas.
 Teacher: Very good.
-  Spanish Track 29
+  Spanish Track - Level: Easy
 Teacher: So I want to talk about something now that's different in Spanish. And first I want to speak about
    what this means; rather than an obstacle to learning, it's part of the experience of learning a new
    language which can make you realize that in your own language you are both permitted and obliged
@@ -3859,7 +3859,7 @@ Teacher: Dead. Good. We looked at this briefly before as a part of mortgage, mea
 Student: Estoy muerta.
 Teacher: Good. Estoy muerta. And I would say estoy muerto. And you can use it to say, I'm very tired as
   well. Estoy muerta, estoy muerto. I'm very tired. Good.
- Spanish Track 30
+ Spanish Track - Level: Easy
 Teacher: The word for how in Spanish is cómo.
 Student: Cómo.
 Teacher: Cómo. How do you think you would say, how are you?, talking informally?
@@ -3977,7 +3977,7 @@ Teacher: Good. Because we are very tired.
 Student: Porque estamos muy cansados.
 Teacher: Well done. No vamos a quedarnos, no nos vamos a quedar porque, estamos muy cansados.
   Very good.
-Spanish Track 31
+Spanish Track - Level: Easy
 Teacher: We spoke about how we have two verbs for to be in Spanish, estar and ser. And we practiced with
    estar, which is the verb that we use for states. And we said that the word state is related to estar.
    Actually, it's like the same word. What looks most different there between state and estar is that
@@ -4068,7 +4068,7 @@ Student: Characteristic.
 Teacher: So how would I ask How is he, what is he like? How is she, what is she like?:
 Student: ¿Cómo es?
 Teacher: ¿Cómo es? Good.
-Spanish Track 32
+Spanish Track - Level: Intermediate
 Teacher: The word for boring or bored is aburrido. Aburrido.
 Student: Aburrido.
 Teacher: A-b-u-r-r-i-d-o. Aburrido.
@@ -4191,7 +4191,7 @@ Student: Está preocupado.
 Teacher: Good. He is a worried person. He is worried as a characteristic. He is worryful:
 Student: Es una persona preocupada.
 Teacher: Good. Es una persona preocupada.
- Spanish Track 33
+ Spanish Track - Level: Intermediate
 Teacher: So some adjectives will exclusively go with estar. Some adjectives will exclusively go with ser.
    Some adjectives can go with either ser or estar, and change their meaning, like aburrido, meaning
    bored as a state, or boring as a characteristic, just changing depending on whether it goes with ser
@@ -4298,7 +4298,7 @@ Teacher: Good. Soy una persona feliz. And that's also perfect Spanish. So there 
   conclusions as to why, working with this base of state and characteristic. It's a process of listening,
   and the more you get intimate with this idea, it offers you a great range of expression that you don't
   have in English and you should really enjoy it.
-Spanish Track 34
+Spanish Track - Level: Intermediate
 Teacher: To speak. Do you remember how to say to speak? It begins with the silent h.
 Student: Hablar.
 Teacher: Hablar. Good. What is I speak or I am speaking?
@@ -4415,7 +4415,7 @@ Teacher: Lo venden mañana. Good. Now if you want to say they are selling it rig
   give that meaning “right now” how would it be?
 Student: Están vendiéndolo.
 Teacher: Good. Están vendiéndolo or lo están vendiendo. Good.
- Spanish Track 35
+ Spanish Track - Level: Intermediate
 Teacher: So going back to ser and estar, and the difference between ser and estar, how would you say
    sincerity in Spanish? Sincerity:
 Student: Is it sinceridad?
@@ -4491,7 +4491,7 @@ Teacher: Good. Los compro la semana que viene. So again, here we would use -ing 
   have you bought them yet? And you say, I am buying them now, how would you say that?
 Student: Estoy comprándolos ahora.
 Teacher: Good, good. I am buying them now. Los estoy comprando ahora, estoy comprándolos ahora.
- Spanish Track 36
+ Spanish Track - Level: Intermediate
 Teacher: So we saw that we can use the present tense to refer to the future. For example, if we have some
    future context we can just use the present tense by itself. So we could say I am having breakfast
    with them tomorrow. Now in Spanish, you don’t say with them. You say with they. With they. So
@@ -4654,7 +4654,7 @@ Teacher: Yes. So very simple, the future tense. Doesn’t matter if we have –a
    them we can look back to haber and then we just add that on the end. But, in saying that, the future
    tense is not so often used in Spanish. Most of the time you will find yourself using present or voy
    a, vamos a. But the future tense does exist and now you know it.
- Spanish Track 37
+ Spanish Track - Level: Intermediate
 Teacher: What was the verb to give, do you remember the verb to give?
 Student: Dar.
 Teacher: Dar. Good. So how would you say I will give?
@@ -4832,7 +4832,7 @@ Student: Les hablo.
 Teacher: Good. They are speaking to them:
 Student: Les hablan.
 Teacher: Good.
-Spanish Track 38
+Spanish Track - Level: Intermediate
 Teacher: So, we said that lo and la and los and las, become le and les. The four become two. The four
    options of lo, la, los, las become le and les when it’s to him, to her, for him, for her. And we said
    that me, te, and nos, they don’t change to get these different meanings. They stay as they are. And
@@ -4956,7 +4956,7 @@ Student: Se dan cuenta.
 Teacher: Good. And they don’t realize:
 Student: No se dan cuenta.
 Teacher: No se dan cuenta. So this could be they don’t realize or you guys don’t realize. Well done.
-Spanish Track 39
+Spanish Track - Level: Intermediate
 Teacher: What was the word for with in Spanish? And we have it in words like convenient, confirm -
 Student: Oh, con.
 Teacher: So con is with and we have it as like a Latin building block in many Latin/English words.
@@ -5094,7 +5094,7 @@ Teacher: Me lo compra. So this is totally ambiguous. No? It could mean he buys i
    here is that we probably use prepositions much more in English than in Spanish and you just want
    to kind of like listen out for this and then you will start shedding them. You will start shedding
    your prepositions the more you listen to Spanish.
- Spanish Track 40
+ Spanish Track - Level: Intermediate
 Teacher: An interesting thing about prepositions is that they have a habit of changing between languages.
   To give you an example, in English we say I fall in love with. In Spanish, you say I enamor myself
   of. I fall in love of you. Now again, this is something that we look at with interest rather than
@@ -5248,7 +5248,7 @@ Student: Si quiere ir.
 Teacher: Good, so all together. It depends on if she wants to go:
 Student: Depende de si quiere ir.
 Teacher: Good. Depende de si quiere ir. It depends on if she wants to go.
- Spanish Track 41
+ Spanish Track - Level: Intermediate
 Teacher: Let’s look again at how we speak about the future in Spanish. We saw that we have a future tense
   but we might not use it very often because, firstly, we can just use the present to talk about the
   future if we have some future context: some word like mañana, tomorrow; later, más tarde, or
@@ -5409,7 +5409,7 @@ Student: No quiere ir.
 Teacher: So, all together I would imagine that he doesn’t want to go:
 Student: Me imaginaría que no quiere ir.
 Teacher: Good. Me imaginaría que no quiere ir.
-Spanish Track 42
+Spanish Track - Level: Intermediate
 Teacher: So we saw for would, the future tense of would, we have our key sound -ía, we have the key sound
    -ía which we are adding on to the end of the verb, and this gives you the version for I, he, she, it,
    and you formal. So, for this one we have I jumping in with he, she, it, you formal. So, we can take
@@ -5498,7 +5498,7 @@ Teacher: Good. ¿Me podrías decir algo? or ¿Podrías decirme algo? Could you t
   come? So, let’s start with could you tell me if, and I remind you that if is the same as yes.
 Student: ¿Podrías decirme si quieres venir?
 Teacher: Okay.
- Spanish Track 43
+ Spanish Track - Level: Intermediate
 Teacher: Another verb that contracts in this way, losing its last e, like poder becoming podría is haber, to
    have. So I would have, how would it be? You're gonna add the -ía on haber, and it's gonna lose
    it's e like poder did. So how would it sound?
@@ -5616,7 +5616,7 @@ Student: Me darían.
 Teacher: Good. They would give me it:
 Student: Me lo darían.
 Teacher: Good.
-Spanish Track 44
+Spanish Track - Level: Intermediate
 Teacher: What was the word for problem in Spanish?
 Student: Problema.
 Teacher: Problema. And the problem:
@@ -5762,7 +5762,7 @@ Student: Me gustaría tomar un foto-
 Teacher: Fotografía.
 Student: Una foto, pero no tengo mi cámara.
 Teacher: Very good. Me gustaría tomar una foto, pero no tengo mi cámara. Very good.
-  Spanish Track 45
+  Spanish Track - Level: Intermediate
 Teacher: So how was to like, or we said that the translation that we would give it in Spanish was to please
    or to be pleasing to?
 Student: Me gusta.
@@ -5930,7 +5930,7 @@ Teacher: Very good. Me gustaría ponerle un poco más sal. What if you wanted to
    fries. I would like to put on them a little more salt:
 Student: Me gustaría ponerles un poco más sal.
 Teacher: Very good. Me gustaría ponerles un poco más sal.
- Spanish Track 46
+ Spanish Track - Level: Intermediate
 Teacher: In English we have many ways to talk about the past. If you get any random verb like to eat, for
   example, you can say I ate. You can say I have eaten. You can say I was eating. You can say I
   used to eat. You can say I would eat an ice cream every week when I was a child, and there you
@@ -6073,7 +6073,7 @@ Student: Intentaban encontrarlo para mí.
 Teacher: Good. Intentaban encontrarlo para mí. So here we are emphasizing, actually me. But mostly in
   Spanish we kind of avoid the use of the preposition, as we’ve been noticing. Intentaban
   encontrármelo.
- Spanish Track 47
+ Spanish Track - Level: Intermediate
 Teacher: The dinner in Spanish is la cena, spelt c-e-n-a, la cena.
 Student: La cena.
 Teacher: La cena. Those in Spain will pronounce /la thena/. So la cena, the dinner. Now, to dine, which
@@ -6186,7 +6186,7 @@ Teacher: Good. Esos se rompen todo el tiempo. So you will have to listen out in 
   something else, but here you don’t need it. Cambia, from cambiar. Cambia. Being aware that
   this occurs is enough, and we will listen out and in real life get a conscious understanding and also
   an intuition about where we need to do this.
- Spanish Track 48
+ Spanish Track - Level: Intermediate
 Teacher: We said that for -ar verbs, we take away the -ar and we put -aba to get this line in the past. So
    cenar, to dine or to have dinner. Cenaba, I was having dinner, I was dining, I used to have dinner,
    I used to dine. Now for -er/-ir verbs, we take away our -er/-ir ending and we put -ía. Where did
@@ -6329,7 +6329,7 @@ Teacher: No nos quedábamos aquí. Good. Now if you wanted to say we didn’t ha
    we will say is it didn’t, or they didn’t, we have the option, remain to us.
 Student: No nos quedaban.
 Teacher: Good. No nos quedaba or no nos quedaban. Good.
- Spanish Track 49
+ Spanish Track - Level: Intermediate
 Teacher: To call in Spanish, so to call to somebody and also to make a phone call is llamar.
 Student: Llamar.
 Teacher: L-l, and we said this double l creates a /yuh/ sound in most Spanish dialects just like the y. L-l-a-
@@ -6482,7 +6482,7 @@ Student: Íbamos a hacerlo.
 Teacher: Good. Íbamos a hacerlo. We were going to do them or we were going to make them:
 Student: Íbamos a hacerlos.
 Teacher: Good. Íbamos a hacerlos. Good.
-Spanish Track 50
+Spanish Track - Level: Intermediate
 Teacher: Gracias por venir. Gracias por venir in Spanish means thanks for coming. Gracias por venir.
 Student: Gracias por venir.
 Teacher: So there’s two things that we can see in this sentence. We can use this sentence like a hook to
@@ -6605,7 +6605,7 @@ Student: Por tres días.
 Teacher: But, I have to work:
 Student: Pero tengo que trabajar.
 Teacher: Perfect. Me quedaría por tres días, pero tengo que trabajar. Perfect. Very good.
-      Spanish Track 51
+      Spanish Track - Level: Intermediate
 Teacher: What was I am, from estar? I am:
 Student: Estoy.
 Teacher: Estoy. If you want to say I’m there for you, I’m there for you, you know, in this supportive way,
@@ -6755,7 +6755,7 @@ Teacher: Good. No creo en discutir de esta forma. Good. So with this sentence, g
    reminded how we have two words for for, por and para, and we need to have a think and decide
    which one we think is most appropriate before we translate for. And that after prepositions we
    don’t need to worry about making the -ing form of the verb, we just use the “to” form.
-Spanish Track 52
+Spanish Track - Level: Intermediate
 Teacher: Para, this for, para, can also mean in order to, in order to. So in a sentence, for example, We have
    spoken in order to resolve it. We have spoken in order to resolve it. Now in English we could just
    say We have spoken to resolve it, no? We don’t need to say in order to. But whenever we have this
@@ -6935,7 +6935,7 @@ Teacher: Salir. Now we have in English, you might have heard, salient, which mea
    can go from salient or you can go from salir.
 Student: Saliente.
 Teacher: Saliente. Good.
-  Spanish Track 53
+  Spanish Track - Level: Intermediate
 Teacher: What was to be able, can, in the “to” form?
 Student: Poder.
 Teacher: Poder. So we have poder. If we want to make could, we have two different could's. We have the
@@ -7041,7 +7041,7 @@ Teacher: Yes. So you see that naturally it's happening, that e of haber is falli
   would have got lost, or I would have lost myself?
 Student: Me habría perdido.
 Teacher: Good. Me habría perdido. Good.
- Spanish Track 54
+ Spanish Track - Level: Intermediate
 Teacher: Now, these versions of the verb that we get after haber, and we said that it’s any version of haber,
    whether it’s he, whether it’s había, whether it’s habría, we could even say I will have. I will have
    lost it – lo habré perdido. Any version of haber - we will have the -ado, -ido version after it, even
@@ -7156,7 +7156,7 @@ Teacher: Es una silla mojada. So, when we say something is a noun, when we give 
    feliz. It’s a chair, es una silla; it’s a wet chair, es una silla mojada. The structure there is it is a
    chair, the adjective is secondary. But, when we say the chair is wet, then we are talking about a
    state of the chair with is: la silla está mojada. Good.
- Spanish Track 55
+ Spanish Track - Level: Intermediate
 Teacher: What was the to have, that we use to go in the past?
 Student: Haber.
 Teacher: Haber. Good. How would you say I have cancelled? I have cancelled:
@@ -7336,7 +7336,7 @@ Teacher: Good. Está hecho. You might also see this used like hecho en China, ma
 example w’s and g’s – you get war in English and guerra in Spanish, William in English and
 Guillermo in Spanish. So this is an interesting thing to keep an eye out for to make connections
 between vocabulary and, of course, in this way aid your memory.
- Spanish Track 56
+ Spanish Track - Level: Intermediate
 Teacher: We’ve seen quite a few prepositions up until now, these words that refer to movement or position
   or direction. For example, we had two words for for, what were they?
 Student: Para and por.
@@ -7506,7 +7506,7 @@ Teacher: Good. No sé para quien lo tengo que hacer or no sé para quién tengo 
    because of, so how would that sound?
 Student: No sé por quien tengo que hacerlo.
 Teacher: No sé por quien lo tengo que hacer, no sé por quien tengo que hacerlo.
-Spanish Track 57
+Spanish Track - Level: Intermediate
 Teacher: What is to speak?
 Student: Hablar.
 Teacher: Hablar. -ar verb, and to eat:
@@ -7647,7 +7647,7 @@ Student: Pero no quiero organizarlo así.
 Teacher: Good. Pero no quiero organizarlo así. Good. But I don't want to organize it like this. Or, if you
    wanted to be more emphatic, you could replace así with de esta manera, de esta forma, of this
    way, of this form, but así is the most common, you will be hearing it all the time.
- Spanish Track 58
+ Spanish Track - Level: Intermediate
 Teacher: We have one more time in Spanish to learn, one more verb time, and that’s the point in the past.
    The one that usually we would express with -ed in English: wanted, walked, or, you know, the
    irregular versions: ran, ate. This is the point in the past and it’s much more random than the other
@@ -7781,7 +7781,7 @@ Student: Lo iba a hacer.
 Teacher: But I forgot it:
 Student: Pero lo olvidé.
 Teacher: Good. Lo iba a hacer pero lo olvidé. Good.
- Spanish Track 59
+ Spanish Track - Level: Intermediate
 Teacher: So, for –ar verbs we have /e/ for I: hablar - to speak, hablé – I spoke, and /o/ for he/she/it/you
    formal and we are accenting our endings - hablé, habló. For –er/-ir verbs we have an /i/ sound, so
    an i, an i, for I, and /ió/, i-o, for he/she/it. So we have /i/ and /ió/. So, if you go to comer – to eat,
@@ -7918,7 +7918,7 @@ Teacher: Good. Habló durante media hora sin parar. And we said that after prepo
    can see this in English as well. Repair, to repair is to “re-pair”, to pair up again. Separar is to
    separate in Spanish, separation, separación, separar; and this se- means apart, so to separate is
    to “pair apart”, to “pair apart”.
-Spanish Track 60
+Spanish Track - Level: Intermediate
 Teacher: What was to speak in Spanish?
 Student: Hablar.
 Teacher: Hablar. I spoke:
@@ -8038,7 +8038,7 @@ Student: Comió.
 Teacher: We ate:
 Student: Comimos.
 Teacher: Very good.
-Spanish Track 61
+Spanish Track - Level: Advanced
 Teacher: You remember how to say to call? You need to open the association between to call and to phone
    and to call myself, my name is, and then you remember it.
 Student: Llamar.
@@ -8147,7 +8147,7 @@ Teacher: Very good. Me parecía bien, pero cuando lo vi, no me gustó. And again
    pero cuando lo vi, but when I saw it, this is a very clear point in the past, I didn’t like it, in that
    moment when I saw it I didn’t like it. Again the point in the past. Me parecía bien, pero cuando
    lo vi, no me gustó. Excellent.
- Spanish Track 62
+ Spanish Track - Level: Advanced
 Teacher: What was to give in Spanish?
 Student: Dar.
 Teacher: Dar. Good. Now dar is irregular in this point in the past, in that whilst it’s an -ar verb it behaves
@@ -8289,7 +8289,7 @@ Teacher: Good. No sé si se lo envié. Excellent. So when we’re using this a f
    you forget it now, you will notice it again for yourself through listening, analyzing, comparing,
    with the skills that we’ve developed during this course. So our focus is to understand it, not to
    memorize it.
-Spanish Track 63
+Spanish Track - Level: Advanced
 Teacher: To remember in Spanish, to remember in Spanish is acordarse. Acordarse. So it’s acordar. It
    just means, this -se on the end, just means that when we use this verb we need to say I remember
    myself to give the meaning of I remember. So how would you say I remember?
@@ -8356,7 +8356,7 @@ Teacher: So this could mean it was pleasing to him, it was pleasing to her, it w
    would you clarify? How would you say it was pleasing to her? She liked it, it was pleasing to her:
 Student: Le gustó a ella.
 Teacher: Le gustó a ella. Good.
-Spanish Track 64
+Spanish Track - Level: Advanced
 Teacher: What was to do or to make in Spanish?
 Student: Hacer.
 Teacher: Hacer. Good. How would you say it does or it makes?
@@ -8551,7 +8551,7 @@ Student: Comieron.
 Teacher: Comieron. Again that important i and that e getting just one small look in, in that dot in the past
    to remind us that this is -er/-ir group, not just -ir. Just as what happened the other way around in
    the present. Good.
-Spanish Track 65
+Spanish Track - Level: Advanced
 Teacher: What was the word for nothing?
 Student: Nada.
 Teacher: Nada. And nobody:
@@ -8754,7 +8754,7 @@ Teacher: Good. Lo vi con mis propios ojos. Very good. How would you say I want t
   I want to live in my own house:
 Student: Quiero vivir en mi propio casa, mi propia casa.
 Teacher: Good. Quiero vivir en mi propia casa. Good. I want to live in my own house. Good.
- Spanish Track 66
+ Spanish Track - Level: Advanced
 Teacher: So, we are looking a bit at possession now, and how we express that in Spanish. Now, in English
    we use possessive words: my, your, his, her, much more than we do in Spanish. So, it’s something
    we want to look out for. We already saw an example actually, for example, how we would say I
@@ -8818,7 +8818,7 @@ Student: Hablé contigo solo.
 Teacher: Good. Or, more naturally might be solo hablé contigo. But solo at the end there, it’s fine, it just
    sounds more emphatic, you might want to be emphatic here: no hablé con nadie más en la fiesta
    de Maria, solo hablé contigo. Hablé solo contigo, hablé contigo solo.
- Spanish Track 67
+ Spanish Track - Level: Advanced
 Teacher: I would like to talk a little bit more about writing in Spanish. So, we haven’t really looked so much
    about how to read and write in Spanish, we’ve spelled some words, we’ve discussed some sounds
    and we’ve looked at convertible words, convertible words that we convert over from Latin English
@@ -8960,7 +8960,7 @@ written accent. So we can look back there at the present tense to remind us that
 s, or vowel, the natural accent is on the penultimate syllable, like the verbs in the present tense,
 and if it ends in any other letter, the natural accent is on the end of the word. And if we break this
 rule we show it with a written accent.
-Spanish Track 68
+Spanish Track - Level: Advanced
 Teacher: What was tonight in Spanish, tonight?
 Student: Esta noche.
 Teacher: Esta noche. Good, “this night”. And we can use this as a hook to work out the other this’s and
@@ -9067,7 +9067,7 @@ Teacher: Good. No sé cuántas veces lo visitaron. And what if you wanted to say
    times they visited her?
 Student: No sé cuántas veces la visitaron.
 Teacher: Good. No sé cuántas veces la visitaron.
-Spanish Track 69
+Spanish Track - Level: Advanced
 Teacher: So now we have a panorama of times in Spanish. We’ve seen all of the different times. We can
   find will, would, the present, the pasts, the have tenses. Maybe some of these we are clearer on
   than others, but we’ve learned how to find what we might think we don’t know and how to analyze
@@ -9170,7 +9170,7 @@ Teacher: Very good. ¿Quieres que te espere? And of course this could mean: Do y
    I, how would we do that? Do you want me to wait for you?:
 Student: ¿Quieres que yo te espere?
 Teacher: Very good. ¿Quieres que yo te espere?
- Spanish Track 70
+ Spanish Track - Level: Advanced
 Teacher: What was the word for what?
 Student: Qué.
 Teacher: Qué. What, when it’s not a question, is lo que, lo que.
@@ -9297,7 +9297,7 @@ Teacher: Very good. And what if it was to her?
 Student: A ella. Prefiero que se lo des a ella.
 Teacher: Good. Prefiero que se lo des a ella. Very good. So to clarify we can then say a él, a ella, to show
    afterwards who we meant with se.
-Spanish Track 71
+Spanish Track - Level: Advanced
 Teacher: To count in Spanish is contar, contar.
 Student: Contar.
 Teacher: Contar. We can see that it’s the same word, but it’s also to recount, like in English how you say
@@ -9423,7 +9423,7 @@ Teacher: Good. Me gusta que visite a la profesora. Very good. So, to clarify, it
    And the reason why I keep stressing the importance of listening is to practice this thinking process,
    to practice analyzing the language and becoming our own teachers. This is how language becomes
    something fascinating and pleasant to learn instead of frustrating and painful.
- Spanish Track 72
+ Spanish Track - Level: Advanced
 Teacher: Another place where we use this mood tense is when we are giving orders to each other, most of
    the time, with just one exception which we will look at, we are using this mood tense to give
    orders. For example, if you wanted to say informally don’t speak, you will just say you don’t speak,
@@ -9599,7 +9599,7 @@ Student: So is it as polite as be quiet, or is it really shut up?
 Teacher: No, it’s not very polite. If you were to speak to more than one person, how would you say it?
 Student: “Cállente”, sorry, cállense.
 Teacher: Cállense, good, now we need the mood tense. Cállense. Very good.
- Spanish Track 73
+ Spanish Track - Level: Advanced
 Teacher: So we’ve seen how with orders we want to use this mood tense, with the exception of positive
   orders which are informal. There we have a shortcut, we can just cut off the s of the informal form.
   For example, what is to wait?
@@ -9693,7 +9693,7 @@ Teacher: Good. When we go, and we refer now to the future with when we go:
 Student: Cuando vayamos.
 Teacher: Good. La vemos cuando vayamos. So, we have la vemos cuando vamos generally, la vemos
   cuando vayamos in the future.
-Spanish Track 74
+Spanish Track - Level: Advanced
 Teacher: So we’ve been seeing the obligatory uses of the mood tense and we will continue to look at some
    of these uses. To choose is elegir. Elegir.
 Student: Elegir.
@@ -9794,7 +9794,7 @@ Teacher: Good. Para que tú también vuelvas or para que vuelvas tú también. S
    everything so that you also come back:
 Student: Hemos hecho todo para que tú también vuelvas.
 Teacher: Good. Very good. Hemos hecho todo para que tú también vuelvas. Very good.
- Spanish Track 75
+ Spanish Track - Level: Advanced
 Teacher: What was to do or to make?
 Student: Hacer.
 Teacher: Hacer. We said that for the informal positive command, we have a shortcut. We find the you
@@ -9916,7 +9916,7 @@ Student: Prefiero que sea así.
 Teacher: Very good. Prefiero que sea así. What does sea lo que sea mean?
 Student: Whatever will be will be.
 Teacher: Whatever it is, whatever will be, will be. Sea lo que sea. Whatever will come. Good.
- Spanish Track 76
+ Spanish Track - Level: Advanced
 Teacher: The word for there is or there are, there is or there are, in most languages this is a separate verb,
    but in English we are expressing it with a combination of there and is or are. In Spanish, to say
    there is or there are we have hay, hay, h-a-y, and hay is actually from haber.
@@ -10004,7 +10004,7 @@ the individual dialect of each person. So, we want to look out for it, listen ac
 enjoy the journey of understanding it and also using it and the different possibilities of expression
 that that gives us. It will be a very fascinating insight into the value system of this particular
 language.
- Spanish Track 77
+ Spanish Track - Level: Advanced
 Teacher: How would you say there should be something to eat? There should be something to eat - so, we
    said that should was would owe or would must, so what is to owe, which we can use like must and
    it’s related to debt?
@@ -10078,7 +10078,7 @@ Teacher: Very good. Está bien que preguntes, pero no es necesario que responda.
    important that we find it soon:
 Student: Es importante que lo encontremos pronto.
 Teacher: Good. Es importante que lo encontremos pronto. Good.
-Spanish Track 78
+Spanish Track - Level: Advanced
 Teacher: What was to follow or to continue, to carry on?
 Student: Seguir.
 Teacher: Seguir. And how was I continue or I carry on or I follow?
@@ -10178,7 +10178,7 @@ Teacher: Good. Quiero que hablen conmigo cuando terminen vendiéndolos. I want y
    quite clearly, “ah, there they used an a and not an e, or there they used an e and not an a, oh why?”
    And then you will look at the context of the sentence and work out why the mood tense was used
    and that really is the best way to internalize it.
- Spanish Track 79
+ Spanish Track - Level: Advanced
 Teacher: So let’s make a little recap of some of the situations in which we are using the mood tense with a
    new verb, dejar. Dejar. Dejar means to leave, but in the sense of to leave a message, rather than
    leave, to go out like salir. Dejar.
@@ -10255,7 +10255,7 @@ Teacher: Good. Ojalá sea pronto. Good. So, ojalá you will hear and want to use
    many different tones to what you are saying, whether it’s humor, or sarcasm, or sincerity, irritation
    – there is a whole spectrum of feelings you can express with it. And these are best understood
    explored in a live environment – practicing, listening to and analyzing Spanish.
-Spanish Track 80
+Spanish Track - Level: Advanced
 Teacher: We saw many uses for se, the sound /se/. We have sé as a verb, yo sé, from saber, I know, and this
    sé is written with a written accent sé or yo sé, or we said lo sé is very common, I know it, just
    because sé, sé, sé is a little short, so you might hear lo sé, lo sé, lo sé, I know it. And then we have
@@ -10338,7 +10338,7 @@ Student: La cena se me quemo- se me quemó.
 Teacher: Good. La cena se me quemó, se me quemó la cena. The dinner burned on us:
 Student: La cena se nos quemó.
 Teacher: Good. La cena se nos quemó, very good.
-Spanish Track 81
+Spanish Track - Level: Advanced
 Teacher: How would you say I don't want the door to close on me? So what was to close?
 Student: Cerrar.
 Teacher: And the door:
@@ -10481,7 +10481,7 @@ Teacher: Very good. Very good. So you have to take a trip through, ah, to find i
    And like I said, you can even avoid the use of the mood tense just by saying volví a llamarte para
    organizar, in a structure like this one, for example. So we're seeing that there are similar structures
    to the structures we practiced the mood tense in the present with, just in the past.
- Spanish Track 82
+ Spanish Track - Level: Advanced
 Teacher: We also said that when we use ser or estar, with an adjective plus que - so for example, es
    relevante que, it's relevant that, está bien que, it's okay that - we will follow this up with the
    mood tense. So how would you say for example, it's not very relevant that they found it, it's not
@@ -10550,7 +10550,7 @@ Teacher: Very good. Es increíble que vuelvan a hacerlo. And how would you say i
    did it again? It's incredible that they returned to do it:
 Student: Es increíble que volvieron, volvieran, volvieran a hacerlo.
 Teacher: Good. Es increíble que volvieran a hacerlo. Very good. Well done.
- Spanish Track 83
+ Spanish Track - Level: Advanced
 Teacher: What was the word for what or that?
 Student: Que.
 Teacher: Que. And what was the word for to buy?
@@ -10651,7 +10651,7 @@ Teacher: The line in the past. Very good. Si lo viera, lo comprendería. Or we c
 the two in meaning. They are just two versions of the same tense. So you don't need to worry about
 using hablase instead of hablara for example, but you will need to recognize it if you hear it or
 read it somewhere.
- Spanish Track 84
+ Spanish Track - Level: Advanced
 Teacher: So now we really do have the panorama of all times and moods in Spanish. So now that's
    everything. That's every tense including both the idea of time and the idea of mood. We've learned
    how to construct them all, and we should really listen actively to refresh any knowledge that we
@@ -10756,7 +10756,7 @@ Teacher: Very good. Quiero que lo traigas. I don't want you to distract me, I do
    still informal:
 Student: No quiero que me distraigas.
 Teacher: Very good. No quiero que me distraigas. I don't want you to distract me. Very good.
- Spanish Track 85
+ Spanish Track - Level: Advanced
 Teacher: We can identify this group of -go verbs and expect them to go to -ga when they are in the
    subjunctive or the mood tense. So I leave from salir is:
 Student: Salgo.
@@ -10823,7 +10823,7 @@ Teacher: Good. After cuando we are using the mood tense because we are referring
    speak formally now? Tell me when you do it, speaking formally:
 Student: Dígame cuando lo haga.
 Teacher: Very good. Dígame cuando lo haga. Good.
-Spanish Track 86
+Spanish Track - Level: Advanced
 Teacher: These -go verbs, these verbs that take -go instead of -o for the I version in the present, also behave
    a little bit strangely in the future tenses. In the will and would tenses. So, we can look at that now,
    and whilst looking at it, revise the endings that we learned for will and would. So we said that our
@@ -10941,7 +10941,7 @@ Student: Podríamos.
 Teacher: Podríamos. And we would put:
 Student: Pondríamos.
 Teacher: Pondríamos.
- Spanish Track 87
+ Spanish Track - Level: Advanced
 Teacher: Looking at the past tenses, the line in the past and the dot in the past, the line in the past is extremely
    regular. We only have a few odd irregular verbs for the line in the past. Ser is one of them and we
    can remember by thinking of an era. So what is the base for ser as a line in the past?
@@ -11075,7 +11075,7 @@ Teacher: Good. We said:
 Student: Dijimos.
 Teacher: Dijimos. Good. So they’re using the same endings, this group of irregular verbs. -e and -o from
    the -ar group and then the rest of the endings from the -er/-ir group for the point in the past.
-   Spanish Track 88
+   Spanish Track - Level: Advanced
 Teacher: What was to put?
 Student: Poner.
 Teacher: Poner. I was putting, the line in the past:
@@ -11195,7 +11195,7 @@ Teacher: Good. Well done. Quería que lo hiciéramos. Good. I’m not as interes
    them. So you should not be afraid of making mistakes. You should build the verbs how you are
    used to and if you suspect that this one might be irregular, check. Check with the person that you
    are speaking to.
-  Spanish Track 89
+  Spanish Track - Level: Advanced
 Teacher: So in the spirit of looking at irregularities in Spanish and how to deal with them and how to identify
    them, I wanted to spend a little bit of time speaking about making your own rules. We’ve taught
    you a great amount of Spanish for you to be very conversational and reach fluency just through
@@ -11271,7 +11271,7 @@ Teacher: Yes, because we have a noun following it and it loses that last o. So u
    can fully take advantage of that, we want to get over our technical difficulties and this is achieved
    not through memorizing what is correct, but analyzing and understanding what is correct and
    finding why.
-Spanish Track 90
+Spanish Track - Level: Advanced
 Teacher: There are also some variations that you might come across in dialect. For example, in most of
   Spain they use le and les whenever they’re referring to him or her, or you (formal), or you guys, or
   they. So instead of lo and la and los and las, they are using le and les, not just to make to him, to
