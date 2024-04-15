@@ -1,0 +1,20 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Language Learning Form</title> </head> <body> <h1>Language Learning Form</h1> <form> <label for="native-language">Native Language:</label> <input type="text" id="native-language" name="native-language" required><br>
+        <label for="target-language">Target Language:</label>
+        <input type="text" id="target-language" name="target-language" required><br>
+    
+        <label for="ability">Ability:</label>
+        <select id="ability" name="ability" required>
+            <option value="">Select your level</option>
+            <option value="beginner">Beginner</option>
+            <option value="basic">Basic</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+            <option value="expert">Expert</option>
+        </select><br>
+    
+        <label for="notes">Topic:</label>
+        <textarea id="notes" name="notes" placeholder="Here you can add a topic you'd like to learn about and/or a grammar structure you want to practice!"></textarea><br>
+    
+        <input type="submit" value="Submit">
+    </form>
+    </body> </html>
