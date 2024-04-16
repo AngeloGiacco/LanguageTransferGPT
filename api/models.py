@@ -38,6 +38,13 @@ class LessonGenerationRequest(BaseModel):
     }
 
 class LessonResponse(BaseModel):
-    content: str 
-    native_language: str 
-    target_language: str
+    content: str
+
+class LessonQuestion(BaseModel):
+    context: str 
+    nativeLanguage: str 
+    targetLanguage: str 
+    question: str
+
+class QuestionResponse(BaseModel):
+    content: str

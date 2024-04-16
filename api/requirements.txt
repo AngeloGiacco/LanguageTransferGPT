@@ -1,0 +1,8 @@
+fastapi
+pydantic
+typing_extensions
+uvicorn
+enum 
+uuid
+anthropic
+os
