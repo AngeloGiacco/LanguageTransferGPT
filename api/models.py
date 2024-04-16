@@ -40,11 +40,13 @@ class LessonGenerationRequest(BaseModel):
 class LessonResponse(BaseModel):
     content: str
 
-class LessonQuestion(BaseModel):
+class QuestionRequest(BaseModel):
     context: str 
-    nativeLanguage: str 
-    targetLanguage: str 
+    native_language: str 
+    target_language: str 
     question: str
+    expectedAnswer: str
+    level: LevelEnum
 
 class QuestionResponse(BaseModel):
     content: str

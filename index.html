@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Language Learning Form</title>
+    <title>Language Lesson Generator</title>
 </head>
 <body>
     <h1>Language Learning Form</h1>
@@ -35,7 +35,8 @@
             <input type="text" id="studentInput" placeholder="Enter your response">
             <button id="submitButton">Submit</button><br>
             <input type="text" id="questionInput" placeholder="Need help? ask a question">
-            <button id="submitButton">Submit</button>
+            <button id="questionSubmitButton">Submit</button>
+            <p id = "explanationText"></p>
         </div> 
     </div>
 
@@ -43,6 +44,9 @@
 
         var currentInteraction = 0;
         var totalInteractions = 0;
+        var nativeLanguage = "";
+        var targetLanguage = "";
+        var level = "";
 
         function displayCurrentInteraction() {
             var teacherTextElement = document.getElementById('teacherText');
@@ -52,11 +56,19 @@
             }
         }
 
+        function removePunctuation(str) {
+            str = str.replace(/[^\w\s\']|_/g, "").replace(/\s+/g, " ");
+        }
+
+        function checkMatch(expected, actual) {
+            return removePunctuation(expected.toLowerCase()) == removePunctuation(actual.toLowerCase())
+        } 
+
         function checkStudentInput() {
             var studentInputElement = document.getElementById('studentInput');
             var enteredText = studentInputElement.value.trim();
 
-            if (enteredText === studentTexts[currentInteraction]) {
+            if (checkMatch(enteredText,studentTexts[currentInteraction])) {
                 currentInteraction++;
                 if (currentInteraction < teacherTexts.length) {
                     displayCurrentInteraction();
@@ -68,19 +80,55 @@
                 alert('Wrong answer. Please try again.');
             }
         }
+
         document.getElementById('submitButton').addEventListener('click', checkStudentInput);
+
+        document.getElementById('questionSubmitButton').addEventListener('click', function(event) {
+            event.preventDefault();
+
+            document.getElementById("explanationText").innerText = "Thinking...";
+
+            var formData = {
+                question : document.getElementById('questionInput').value,
+                expectedAnswer : studentTexts[currentInteraction],
+                context: teacherTexts[currentInteraction],
+                native_language: nativeLanguage,
+                target_language: targetLanguage, //this is ugly
+                level: level
+            }
+
+            fetch("http://localhost:8000/api/v1/answer-question", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                var parser = new DOMParser();
+                var xmlDoc = parser.parseFromString(data.content, 'text/xml');
+                var explanation = xmlDoc.getElementsByTagName('lesson')[0].textContent; 
+                document.getElementById("explanationText").innerText = explanation;
+            })
+        });
+
         document.getElementById('lessonForm').addEventListener('submit', function(event) {
             event.preventDefault(); // Prevent the default form submission
 
+            nativeLanguage = document.getElementById('native-language').value
+            targetLanguage = document.getElementById('target-language').value
+            level = document.getElementById('ability').value;
+
             // Gather the form data
             var formData = {
-                native_language: document.getElementById('native-language').value,
-                target_language: document.getElementById('target-language').value,
-                level: document.getElementById('ability').value,
+                native_language: nativeLanguage,
+                target_language: targetLanguage,
+                level: level,
                 notes: document.getElementById('notes').value
             };
 
-            fetch("http://localhost:8000/generate-lesson", {
+            fetch("http://localhost:8000/api/v1/generate-lesson", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

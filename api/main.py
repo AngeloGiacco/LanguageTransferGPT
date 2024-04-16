@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, Depends
-from services import generate_lesson
-from models import User, LessonGenerationRequest, LessonResponse
+from services import generate_lesson, generate_answer
+from models import LessonGenerationRequest, LessonResponse, QuestionRequest, QuestionResponse
 from uuid import UUID
 from functools import lru_cache
 import config
@@ -10,6 +10,7 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
 ]
+
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
@@ -24,25 +25,25 @@ app.add_middleware(
 def get_settings():
     return config.Settings()
 
-# random data
-user_data = {"angelo": User(name="angelo", email="...", id=UUID('6a132ccc-069b-4084-afb5-2024501e1aa4'), credits=3),
-             "derek": User(name="derek", email="...", id=UUID('6a132cdc-069b-4084-afb5-2024501e1aa4'), credits=0)} 
-
-@app.get('/api/health')
+@app.get('/api/v1/health')
 async def health():
     return { 'status': 'healthy' }
 
-def get_current_user(user_name: str = "angelo") -> User:  # j simulating getting the right user
-    if user_name in user_data:
-        return user_data[user_name]
-    else:
-        raise HTTPException(status_code=404, detail="User not found")
 
-@app.post("/generate-lesson")
+@app.post("/api/v1/generate-lesson")
 async def generate_lesson_endpoint(
     lesson_request: LessonGenerationRequest
-):
+) -> LessonResponse:
     try:
         return generate_lesson(lesson_request)
+    except ValueError as e:
+        raise HTTPException(status_code=403, detail=str(e))
+    
+@app.post("/api/v1/answer-question")
+async def generate_answer_endpoint(
+    question: QuestionRequest
+) -> QuestionResponse:
+    try:
+        return generate_answer(question)
     except ValueError as e:
         raise HTTPException(status_code=403, detail=str(e))
