@@ -17,7 +17,7 @@
         <label for="ability">Ability:</label>
         <select id="ability" name="ability" required>
             <option value="">Select your level</option>
-            <option value="beginner">Beginner</option>
+            <option value="complete beginner">Beginner</option>
             <option value="basic">Basic</option>
             <option value="intermediate">Intermediate</option>
             <option value="advanced">Advanced</option>
@@ -29,22 +29,58 @@
    
         <button type="submit">Submit</button>
     </form>
+    <div id="conversation" style="display:none">
+        <p id="teacherText"></p>
+        <div id = "student">
+            <input type="text" id="studentInput" placeholder="Enter your response">
+            <button id="submitButton">Submit</button><br>
+            <input type="text" id="questionInput" placeholder="Need help? ask a question">
+            <button id="submitButton">Submit</button>
+        </div> 
+    </div>
 
     <script>
+
+        var currentInteraction = 0;
+        var totalInteractions = 0;
+
+        function displayCurrentInteraction() {
+            var teacherTextElement = document.getElementById('teacherText');
+            teacherTextElement.textContent = 'Teacher: ' + teacherTexts[currentInteraction];
+            if (totalInteractions === currentInteraction) {
+                document.getElementById('student').style.display = 'none';
+            }
+        }
+
+        function checkStudentInput() {
+            var studentInputElement = document.getElementById('studentInput');
+            var enteredText = studentInputElement.value.trim();
+
+            if (enteredText === studentTexts[currentInteraction]) {
+                currentInteraction++;
+                if (currentInteraction < teacherTexts.length) {
+                    displayCurrentInteraction();
+                    studentInputElement.value = '';
+                } else {
+                    alert('Lesson completed!');
+                }
+            } else {
+                alert('Wrong answer. Please try again.');
+            }
+        }
+        document.getElementById('submitButton').addEventListener('click', checkStudentInput);
         document.getElementById('lessonForm').addEventListener('submit', function(event) {
             event.preventDefault(); // Prevent the default form submission
 
             // Gather the form data
             var formData = {
-                nativeLanguage: document.getElementById('native-language').value,
-                targetLanguage: document.getElementById('target-language').value,
-                ability: document.getElementById('ability').value,
+                native_language: document.getElementById('native-language').value,
+                target_language: document.getElementById('target-language').value,
+                level: document.getElementById('ability').value,
                 notes: document.getElementById('notes').value
             };
 
-            url = new URL("http://localhost:8000/generate-lesson")
-
-            fetch(url, {
+            fetch("http://localhost:8000/generate-lesson", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -54,7 +90,21 @@
             .then(response => response.json())
             .then(data => {
                 // Handle the response from the API
-                console.log(data);
+                var conversationContainer = document.getElementById('conversation');
+                var parser = new DOMParser();
+                var xmlDoc = parser.parseFromString(data.content, 'text/xml');
+                console.log(xmlDoc)
+                console.log("here")
+                var lessonElement = xmlDoc.getElementsByTagName('lesson')[0];
+                var teacherElements = lessonElement.getElementsByTagName('teacher');
+                var studentElements = lessonElement.getElementsByTagName('student');
+                teacherTexts = Array.from(teacherElements).map(element => element.textContent);
+                studentTexts = Array.from(studentElements).map(element => element.textContent);
+                totalInteractions = teacherTexts.length;
+                displayCurrentInteraction();
+
+                document.getElementById('lessonForm').style.display = 'none';
+                document.getElementById('conversation').style.display = 'block';
             })
             .catch(error => {
                 // Handle any errors
