@@ -4,12 +4,25 @@ from models import User, LessonGenerationRequest, LessonResponse
 from uuid import UUID
 from functools import lru_cache
 import config
+from fastapi.middleware.cors import CORSMiddleware
+
+origins = [
+    "http://localhost",
+    "http://localhost:3000",
+]
+app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 @lru_cache
 def get_settings():
     return config.Settings()
-
-app = FastAPI()
 
 # random data
 user_data = {"angelo": User(name="angelo", email="...", id=UUID('6a132ccc-069b-4084-afb5-2024501e1aa4'), credits=3),
@@ -27,10 +40,9 @@ def get_current_user(user_name: str = "angelo") -> User:  # j simulating getting
 
 @app.post("/generate-lesson")
 async def generate_lesson_endpoint(
-    lesson_request: LessonGenerationRequest, 
-    user: User = Depends(get_current_user)
+    lesson_request: LessonGenerationRequest
 ):
     try:
-        return generate_lesson(lesson_request, user)
+        return generate_lesson(lesson_request)
     except ValueError as e:
         raise HTTPException(status_code=403, detail=str(e))
