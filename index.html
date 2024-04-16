@@ -1,7 +1,19 @@
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Language Learning Form</title> </head> <body> <h1>Language Learning Form</h1> <form> <label for="native-language">Native Language:</label> <input type="text" id="native-language" name="native-language" required><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Learning Form</title>
+</head>
+<body>
+    <h1>Language Learning Form</h1>
+    <form id="lessonForm">
+        <label for="native-language">Native Language:</label>
+        <input type="text" id="native-language" name="native-language" required><br>
+        
         <label for="target-language">Target Language:</label>
         <input type="text" id="target-language" name="target-language" required><br>
-    
+   
         <label for="ability">Ability:</label>
         <select id="ability" name="ability" required>
             <option value="">Select your level</option>
@@ -11,10 +23,44 @@
             <option value="advanced">Advanced</option>
             <option value="expert">Expert</option>
         </select><br>
-    
+   
         <label for="notes">Topic:</label>
         <textarea id="notes" name="notes" placeholder="Here you can add a topic you'd like to learn about and/or a grammar structure you want to practice!"></textarea><br>
-    
-        <input type="submit" value="Submit">
+   
+        <button type="submit">Submit</button>
     </form>
-    </body> </html>
+
+    <script>
+        document.getElementById('lessonForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Gather the form data
+            var formData = {
+                nativeLanguage: document.getElementById('native-language').value,
+                targetLanguage: document.getElementById('target-language').value,
+                ability: document.getElementById('ability').value,
+                notes: document.getElementById('notes').value
+            };
+
+            url = new URL("http://localhost:8000/generate-lesson")
+
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Handle the response from the API
+                console.log(data);
+            })
+            .catch(error => {
+                // Handle any errors
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
