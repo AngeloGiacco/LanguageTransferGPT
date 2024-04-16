@@ -1,53 +1,26 @@
-from typing import Union
-from enum import Enum
+from fastapi import FastAPI, HTTPException, Depends
+from services import generate_lesson
+from models import User, LessonGenerationRequest, LessonResponse
 from uuid import UUID
-from fastapi import FastAPI,Query, HTTPException
-from pydantic import BaseModel
-from typing_extensions import Annotated
-
-userCredits = {"angelo":2,"derek":0}
-
-class LevelEnum(Enum):
-    completeBeginner="complete beginner"
-    basic = "basic"
-    intermediate = "intermediate"
-    advanced = "advanced"
-    expert = "expert"
-
-class LessonGenerationRequest(BaseModel):
-    notes: Annotated[Union[str,None], Query(max_length=100)] #can be a bit more lenient on tokens
-    targetLanguage: Annotated[str, Query(max_length=20)] #shouldn't be too many tokens
-    nativeLanguage: Annotated[str, Query(max_length=20)] #shouldn't be too many tokens
-    level : LevelEnum
-
-    model_config = {
-        "json_schema_extra": {
-            "examples": [
-                {
-                    "notes": "i want a lesson about food!",
-                    "targetLanguage": "French",
-                    "nativeLanguage": "English",
-                    "level": "complete beginner",
-                }
-            ]
-        }
-    }
-
-class User(BaseModel):
-    id : UUID
-    name : str
-    email : str
-
-class LessonResponse(BaseModel):
-    content: str 
-    nativeLanguage: str 
-    targetLanguage: str
 
 app = FastAPI()
 
-@app.post("/generate-lesson/<request>")
-async def generateLesson(lessonRequest: LessonGenerationRequest, user : User) -> LessonResponse:
-    if userCredits[user.name] > 0:
-        return {"content" : "success", "nativeLanguage":"English", "targetLanguage":"French"}
+# random data
+user_data = {"angelo": User(name="angelo", email="...", id=UUID('6a132ccc-069b-4084-afb5-2024501e1aa4'), credits=3),
+             "derek": User(name="derek", email="...", id=UUID('6a132cdc-069b-4084-afb5-2024501e1aa4'), credits=0)} 
+
+def get_current_user(user_name: str) -> User:  # j simulating getting the right user
+    if user_name in user_data:
+        return user_data[user_name]
     else:
-        raise HTTPException(status_code=403, detail="credits ran out")
+        raise HTTPException(status_code=404, detail="User not found")
+
+@app.post("/generate-lesson")  # Adjust path if needed
+async def generate_lesson_endpoint(
+    lesson_request: LessonGenerationRequest, 
+    user: User = Depends(get_current_user)
+) -> LessonResponse:
+    try:
+        return generate_lesson(lesson_request, user)
+    except ValueError as e:
+        raise HTTPException(status_code=403, detail=str(e))
