@@ -71,7 +71,7 @@ def get_avatar(user):
 
 for user, text in st.session_state.chat_history:
     with st.chat_message(user, avatar=get_avatar(user)):
-        st.markdown(text)
+        st.markdown(text, unsafe_allow_html=True)
 
 if st.session_state[lesson_started_key]:
     if prompt := st.chat_input("enter what you want to say!"):
