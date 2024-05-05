@@ -1,12 +1,15 @@
 import streamlit as st
 from helpers import *
+from chain import generate_lesson
+
+TESTING = True
 
 lesson_started_key = "lesson_started"
-
+chat_history_key = "chat_history"
 if lesson_started_key not in st.session_state:
     st.session_state[lesson_started_key] = False
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = []
+if chat_history_key not in st.session_state:
+    st.session_state[chat_history_key] = [("assistant", introduction_message)]
 
 st.markdown(
     """
@@ -17,7 +20,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("👴 poppa - infinite language lessons")
+st.title(landing_page_title)
 
 with st.form("my_form"):
     # Define the available languages and levels
@@ -57,9 +60,30 @@ with st.form("my_form"):
             else st.form_submit_button("Start new lesson!")
         )
 if submit:
-    st.session_state.chat_history = []
-    st.session_state.chat_history.append(("assistant", "I am generating a lesson"))
+    st.session_state[chat_history_key] = []
+    st.session_state[chat_history_key].append(("assistant", "I am generating a lesson"))
     st.session_state[lesson_started_key] = True
+
+    lesson = generate_lesson(
+        st.session_state.native_language,
+        st.session_state.target_language,
+        st.session_state.level,
+        st.session_state.topic,
+        TESTING,
+    )
+
+    st.session_state.interactions = lesson.interactions
+    st.session_state.closing_message = lesson.lesson_closing_message
+
+    st.session_state.curr_msg_idx = 0
+    st.session_state.max_msg_idx = len(lesson.interactions)
+
+    assistant_output = get_assistant_output(st.session_state.interactions[0])
+
+    st.session_state[chat_history_key] = [
+        ("assistant", lesson.lesson_introduction_message.text),
+        ("assistant", assistant_output),
+    ]
 
 
 def get_avatar(user):
@@ -69,19 +93,33 @@ def get_avatar(user):
         return "🙋🏻‍♀️"
 
 
-for user, text in st.session_state.chat_history:
+for user, text in st.session_state[chat_history_key]:
     with st.chat_message(user, avatar=get_avatar(user)):
         st.markdown(text, unsafe_allow_html=True)
 
 if st.session_state[lesson_started_key]:
     if prompt := st.chat_input("enter what you want to say!"):
 
-        st.session_state.chat_history.append(("user", prompt))
+        st.session_state[chat_history_key].append(("user", prompt))
         with st.chat_message("user", avatar=get_avatar("user")):
             st.markdown(prompt)
 
-        response = f"<p>You want a lesson in {st.session_state.native_language} for {st.session_state.target_language} at {st.session_state.level} level on {st.session_state.topic} and you said {prompt}</p>"
+        expected = st.session_state.interactions[st.session_state.curr_msg_idx].expected
+        if prompt.lower() != expected.lower():
+            response = f"That's not quite what I was expecting. I was expecting you to say: {expected}"
+            with st.chat_message("assistant", avatar=get_avatar("assistant")):
+                st.markdown(response)
 
-        st.session_state.chat_history.append(("assistant", response))
-        with st.chat_message("assistant", avatar=get_avatar("assistant")):
-            st.markdown(response, unsafe_allow_html=True)
+        st.session_state.curr_msg_idx += 1
+        if st.session_state.curr_msg_idx < st.session_state.max_msg_idx:
+            new_teacher_stmt = get_assistant_output(
+                st.session_state.interactions[st.session_state.curr_msg_idx]
+            )
+            st.session_state[chat_history_key].append(("assistant", new_teacher_stmt))
+            with st.chat_message("assistant", avatar=get_avatar("assistant")):
+                st.markdown(new_teacher_stmt, unsafe_allow_html=True)
+        else:
+            with st.chat_message("assistant", avatar=get_avatar("assistant")):
+                st.markdown(
+                    st.session_state.closing_message.text, unsafe_allow_html=True
+                )
