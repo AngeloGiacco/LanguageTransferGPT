@@ -1,6 +1,13 @@
 from langchain_core.pydantic_v1 import BaseModel, Field
 from typing import Annotated
 from annotated_types import Len
+from enum import Enum
+
+
+class ContinuationDifficulty(Enum):
+    EASIER = 1
+    SAME = 2
+    HARDER = 3
 
 
 class Thinking(BaseModel):
@@ -38,3 +45,6 @@ class Lesson(BaseModel):
     lesson_introduction_message: Introduction
     interactions: Annotated[list[Interaction], Len(min_length=2, max_length=5)]
     lesson_closing_message: Closing
+    continuation_prompt: str = Field(
+        description="a brief summary of vocab/grammar learnt in the previous lesson, so that a follow-on lesson can be generated. list vocabulary learnt concisely."
+    )

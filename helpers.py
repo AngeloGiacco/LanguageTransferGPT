@@ -5,6 +5,7 @@ supported_languages = [
     "French",
     "Chinese",
     "Spanish",
+    "Swahili",
     "Hindi",
     "Portuguese",
     "German",
@@ -59,8 +60,28 @@ sample_lesson = Lesson(
     lesson_closing_message=Closing(
         text="Great job today! You learned how to form infinitive verbs with 'ku' and conjugate them in first person present tense using 'nina'. Keep practicing with other verbs and soon you'll be expressing yourself more fully in Swahili. Come back for the next lesson!"
     ),
+    continuation_prompt="learnt kulala and kula and introduced how to transform kulala to ninalala",
 )
+
+new_lesson_nudge = "want to carry on this lesson? just click below ;)"
+
+
+def get_avatar(user):
+    if user == "assistant":
+        return "👴"
+    else:
+        return "🙋🏻‍♀️"
 
 
 def get_assistant_output(interaction: Interaction) -> str:
     return f"{interaction.explanation} {interaction.question}"
+
+
+def difficulty_to_string(difficulty: ContinuationDifficulty) -> str:
+    match difficulty:
+        case ContinuationDifficulty.HARDER:
+            "The student requested a harder lesson."
+        case ContinuationDifficulty.EASIER:
+            "The student requested an easier lesson."
+        case ContinuationDifficulty.SAME:
+            "The student requested a new lesson with the same difficulty."
