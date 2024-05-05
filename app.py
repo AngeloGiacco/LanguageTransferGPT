@@ -7,10 +7,13 @@ TESTING = False
 
 lesson_started_key = "lesson_started"
 chat_history_key = "chat_history"
+end_of_lesson_key = "end_of_lesson"
 if lesson_started_key not in st.session_state:
     st.session_state[lesson_started_key] = False
 if chat_history_key not in st.session_state:
     st.session_state[chat_history_key] = [("assistant", introduction_message)]
+if end_of_lesson_key not in st.session_state:
+    st.session_state[end_of_lesson_key] = False
 
 st.markdown(
     """
@@ -25,25 +28,27 @@ st.title(landing_page_title)
 
 
 def start_continuation_lesson(difficulty: ContinuationDifficulty):
+    print("here")
     lesson = generate_continuation_lesson(
-        st.session_state.native_language,
-        st.session_state.target_language,
-        st.session_state.level,
-        st.session_state.topic,
-        st.session_state.continuation_prompt,
-        difficulty_to_string(difficulty),
-        TESTING,
+        native_language=st.session_state.native_language,
+        target_language=st.session_state.target_language,
+        level=st.session_state.level,
+        topic=st.session_state.topic,
+        continuation=st.session_state.continuation_prompt,
+        student_feedback=difficulty_to_string(difficulty),
+        test=TESTING,
     )
     start_lesson(lesson)
+    st.rerun()
 
 
 def start_initial_lesson():
     lesson = generate_lesson(
-        st.session_state.native_language,
-        st.session_state.target_language,
-        st.session_state.level,
-        st.session_state.topic,
-        TESTING,
+        native_language=st.session_state.native_language,
+        target_language=st.session_state.target_language,
+        level=st.session_state.level,
+        topic=st.session_state.topic,
+        test=TESTING,
     )
     start_lesson(lesson)
 
@@ -59,6 +64,7 @@ def start_lesson(lesson: Lesson):
         ("assistant", lesson.lesson_introduction_message.text),
         ("assistant", assistant_output),
     ]
+    st.session_state[end_of_lesson_key] = False
     st.session_state[lesson_started_key] = True
 
 
@@ -116,10 +122,12 @@ if st.session_state[lesson_started_key]:
             expected = st.session_state.interactions[
                 st.session_state.curr_msg_idx
             ].expected
+            print(prompt, expected)
             if prompt.lower() != expected.lower():
                 response = f"That's not quite what I was expecting. I was expecting you to say: {expected}"
                 with st.chat_message("assistant", avatar=get_avatar("assistant")):
                     st.markdown(response)
+                st.session_state[chat_history_key].append(("assistant", response))
 
             st.session_state.curr_msg_idx += 1
             if st.session_state.curr_msg_idx < st.session_state.max_msg_idx:
@@ -141,23 +149,30 @@ if st.session_state[lesson_started_key]:
                     )
                 st.rerun()  # TODO: find a better way to ensure that input text box isnt shown
     else:
+        st.session_state[end_of_lesson_key] = True
         with st.chat_message("assistant", avatar=get_avatar("assistant")):
             st.markdown(new_lesson_nudge, unsafe_allow_html=True)
-        st.button(
-            "New lesson, but easier 😭",
-            key="new-easier",
-            help="if this lesson was too hard!",
-            on_click=start_continuation_lesson(ContinuationDifficulty.EASIER),
-        )
-        st.button(
-            "New lesson, same difficulty 🤓",
-            key="new-same",
-            help="if this lesson was just right!",
-            on_click=start_continuation_lesson(ContinuationDifficulty.SAME),
-        )
-        st.button(
-            "New lesson, but harder 💪",
-            key="new-harder",
-            help="if this lesson was too easy!",
-            on_click=start_continuation_lesson(ContinuationDifficulty.HARDER),
-        )
+
+if st.session_state[end_of_lesson_key]:
+    continue_easier = st.button(
+        "New lesson, but easier 😭",
+        key="new-easier",
+        help="if this lesson was too hard!",
+    )
+    continue_same = st.button(
+        "New lesson, same difficulty 🤓",
+        key="new-same",
+        help="if this lesson was just right!",
+    )
+    continue_harder = st.button(
+        "New lesson, but harder 💪",
+        key="new-harder",
+        help="if this lesson was too easy!",
+    )
+
+    if continue_easier:
+        start_continuation_lesson(ContinuationDifficulty.EASIER)
+    elif continue_same:
+        start_continuation_lesson(ContinuationDifficulty.SAME)
+    elif continue_harder:
+        start_continuation_lesson(ContinuationDifficulty.HARDER)
