@@ -43,6 +43,7 @@ def start_initial_lesson():
         lesson_params=get_lesson_params(),
         test=TESTING,
     )
+    print(lesson)
     start_lesson(lesson)
 
 
@@ -53,13 +54,18 @@ def check_non_expected_response(user_input: str):
     ]
     follow_on: Optional[Interaction] = get_follow_on(
         interaction=current_interaction,
-        actual=user_input,
+        answer=user_input,
         lesson_params=get_lesson_params(),
-    )
+    ).interaction
     if follow_on:
+        print("adding follow on")
+        print(follow_on)
         st.session_state.interactions.insert(
             st.session_state.curr_msg_idx + 1, follow_on
         )
+        update_max_len_interactions()
+    else:
+        print("skipping follow on")
 
 
 def start_lesson(lesson: Lesson):
@@ -130,9 +136,8 @@ if st.session_state[lesson_started_key]:
             expected = st.session_state.interactions[
                 st.session_state.curr_msg_idx
             ].expected
-            print(prompt, expected)
             if prompt.lower() != expected.lower():
-                check_non_expected_response()
+                check_non_expected_response(user_input=prompt)
 
             st.session_state.curr_msg_idx += 1
             if st.session_state.curr_msg_idx < st.session_state.max_msg_idx:

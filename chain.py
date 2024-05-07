@@ -195,7 +195,7 @@ def generate_continuation_lesson(
 
 def get_follow_on(
     interaction: Interaction,
-    actual: str,
+    answer: str,
     lesson_params: LessonParams,
     provider: str = default_provider,
 ):
@@ -227,7 +227,7 @@ def get_follow_on(
             "explanation": interaction.explanation,
             "question": interaction.question,
             "expected": interaction.expected,
-            "actual": actual,
+            "answer": answer,
         }
     )
     return result

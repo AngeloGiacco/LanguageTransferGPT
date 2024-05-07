@@ -95,3 +95,7 @@ def get_lesson_params():
         topic=st.session_state.topic,
         level=st.session_state.level,
     )
+
+
+def update_max_len_interactions():
+    st.session_state.max_msg_idx = len(st.session_state.interactions)
