@@ -1,6 +1,6 @@
 import streamlit as st
 from helpers import *
-from chain import generate_lesson, generate_continuation_lesson
+from chain import generate_lesson, generate_continuation_lesson, get_follow_on
 from models import *
 
 TESTING = False
@@ -28,12 +28,8 @@ st.title(landing_page_title)
 
 
 def start_continuation_lesson(difficulty: ContinuationDifficulty):
-    print("here")
     lesson = generate_continuation_lesson(
-        native_language=st.session_state.native_language,
-        target_language=st.session_state.target_language,
-        level=st.session_state.level,
-        topic=st.session_state.topic,
+        lesson_params=get_lesson_params(),
         continuation=st.session_state.continuation_prompt,
         student_feedback=difficulty_to_string(difficulty),
         test=TESTING,
@@ -44,13 +40,26 @@ def start_continuation_lesson(difficulty: ContinuationDifficulty):
 
 def start_initial_lesson():
     lesson = generate_lesson(
-        native_language=st.session_state.native_language,
-        target_language=st.session_state.target_language,
-        level=st.session_state.level,
-        topic=st.session_state.topic,
+        lesson_params=get_lesson_params(),
         test=TESTING,
     )
     start_lesson(lesson)
+
+
+def check_non_expected_response(user_input: str):
+    # check if a follow on is needed if the response is wrong
+    current_interaction: Interaction = st.session_state.interactions[
+        st.session_state.curr_msg_idx
+    ]
+    follow_on: Optional[Interaction] = get_follow_on(
+        interaction=current_interaction,
+        actual=user_input,
+        lesson_params=get_lesson_params(),
+    )
+    if follow_on:
+        st.session_state.interactions.insert(
+            st.session_state.curr_msg_idx + 1, follow_on
+        )
 
 
 def start_lesson(lesson: Lesson):
@@ -72,7 +81,6 @@ with st.form("my_form"):
     # Define the available languages and levels
     with st.sidebar:
         st.write("What do you want to learn?")
-        languages = ["English", "Spanish", "French", "German", "Italian"]
         levels = [
             "Complete Beginner",
             "Basic",
@@ -124,10 +132,7 @@ if st.session_state[lesson_started_key]:
             ].expected
             print(prompt, expected)
             if prompt.lower() != expected.lower():
-                response = f"That's not quite what I was expecting. I was expecting you to say: {expected}"
-                with st.chat_message("assistant", avatar=get_avatar("assistant")):
-                    st.markdown(response)
-                st.session_state[chat_history_key].append(("assistant", response))
+                check_non_expected_response()
 
             st.session_state.curr_msg_idx += 1
             if st.session_state.curr_msg_idx < st.session_state.max_msg_idx:

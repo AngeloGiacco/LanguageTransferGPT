@@ -1,4 +1,5 @@
 from models import *
+import streamlit as st
 
 supported_languages = [
     "English",
@@ -85,3 +86,12 @@ def difficulty_to_string(difficulty: ContinuationDifficulty) -> str:
             "The student requested an easier lesson."
         case ContinuationDifficulty.SAME:
             "The student requested a new lesson with the same difficulty."
+
+
+def get_lesson_params():
+    return LessonParams(
+        native_language=st.session_state.native_language,
+        target_language=st.session_state.target_language,
+        topic=st.session_state.topic,
+        level=st.session_state.level,
+    )

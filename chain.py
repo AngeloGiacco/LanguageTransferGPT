@@ -1,7 +1,7 @@
 from langchain_anthropic import ChatAnthropic
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
-from models import Lesson
+from models import *
 import os
 from dotenv import load_dotenv, find_dotenv
 from helpers import sample_lesson
@@ -10,11 +10,13 @@ load_dotenv(find_dotenv())
 OpenAI_key = os.environ.get("OPENAI_API_KEY")
 Anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
 
+default_provider = "openai"
+
 
 def get_chat(provider: str):
     if provider == "openai":
         return ChatOpenAI(
-            model="gpt-3.5-turbo",
+            model="gpt-4-turbo",
             openai_api_key=OpenAI_key,
             temperature=0,
         )
@@ -25,12 +27,9 @@ def get_chat(provider: str):
 
 
 def generate_lesson(
-    native_language: str,
-    target_language: str,
-    level: str,
-    topic: str,
+    lesson_params: LessonParams,
     test: bool = False,
-    provider: str = "openai",
+    provider: str = default_provider,
 ) -> Lesson:
     if test:
         return sample_lesson
@@ -73,14 +72,19 @@ def generate_lesson(
             "explanation": "Great! Now let's practice with 'kuandika', which means 'to write'.",
             "question": "Using 'kuandika', how would you translate 'I am writing' into Swahili?",
             "expected": "ninaandika"
+        }},
+        {{
+            "explanation": "Great! Now let's practice with 'kuandika', which means 'to write'.",
+            "question": "Using 'kuandika', how would you translate 'I am writing' into Swahili?",
+            "expected": "ninaandika"
         }}
     ],
     "lesson_closing": {{
         "closing_message": "Excellent work today! You've gotten the hang of forming infinitive verbs with 'ku' and conjugating them in first person present tense using 'nina'. Keep practicing with even more verbs to expand your Swahili vocabulary and expression. I look forward to seeing you in the next lesson!"
     }},
-    "continuation" : "learnt kulala and kula and introduced how to transform kulala to ninalala"
+    "continuation" : "learnt kulala, kusoma, kuandika and kula and introduced how to transform the infinitive to the first person present tense"
 }}}}  
-        
+    Don't ask any questions in the explanation part. Make sure to introduce all vocab necessary to answer the question. in the explanation don't use overly grammatical langauge. use intuitive language.
     Your job is to create a lesson similar to the output of the example for the input that you will receive.
 
     """
@@ -97,24 +101,21 @@ def generate_lesson(
     chain = prompt | chat
     result = chain.invoke(
         {
-            "native_language": native_language,
-            "target_language": target_language,
-            "level": level,
-            "topic": topic,
+            "native_language": lesson_params.native_language,
+            "target_language": lesson_params.target_language,
+            "level": lesson_params.level,
+            "topic": lesson_params.topic,
         }
     )
     return result
 
 
 def generate_continuation_lesson(
-    native_language: str,
-    target_language: str,
-    level: str,
-    topic: str,
+    lesson_params: LessonParams,
     continuation: str,
     student_feedback: str,
     test: bool = False,
-    provider: str = "openai",
+    provider: str = default_provider,
 ) -> Lesson:
     if test:
         return sample_lesson
@@ -181,12 +182,52 @@ def generate_continuation_lesson(
     chain = prompt | chat
     result = chain.invoke(
         {
-            "native_language": native_language,
-            "target_language": target_language,
-            "level": level,
-            "topic": topic,
+            "native_language": lesson_params.native_language,
+            "target_language": lesson_params.target_language,
+            "level": lesson_params.level,
+            "topic": lesson_params.topic,
             "continuation": continuation,
             "student_feedback": student_feedback,
+        }
+    )
+    return result
+
+
+def get_follow_on(
+    interaction: Interaction,
+    actual: str,
+    lesson_params: LessonParams,
+    provider: str = default_provider,
+):
+    chat = get_chat(provider).with_structured_output(FollowUp)
+    system = """You are the best teacher at the language transfer project. Remember that the language transfer project emphasises the thinking based approach and understanding the grammar and structure of a language rather than memorizing vocab lists. You have created a lesson for a user. 
+    You first said an explanation of a new concept, then you asked a question to the student, then you received a response.
+    Your job is to check whether the response to the explanation and question was correct. If it was no follow up is needed and null can be generated. 
+    The response may be wrong however, or the student may have simply asked for clarification. In this case please generate a follow up, which is another interaction with an explanation, question and expected answer.
+    When assessing if an answer is correct, you can be lenient on punctuation and usage of synonyms. 
+    Please bear in mind the student has native language: {native_language}, they want to learn: {target_language} at level: {level} and requested a lesson about the topic: {topic}."""
+
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system),
+            (
+                "human",
+                "the student was given this explanation '{explanation}'. the student was asked the question: '{question}'. the student gave this answer: {answer}. ",
+            ),
+        ],
+    )
+
+    chain = prompt | chat
+    result = chain.invoke(
+        {
+            "native_language": lesson_params.native_language,
+            "target_language": lesson_params.target_language,
+            "level": lesson_params.level,
+            "topic": lesson_params.topic,
+            "explanation": interaction.explanation,
+            "question": interaction.question,
+            "expected": interaction.expected,
+            "actual": actual,
         }
     )
     return result
