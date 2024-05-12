@@ -2,3 +2,4 @@ __pycache__
 .env
 .metals
 .vscode
+env
