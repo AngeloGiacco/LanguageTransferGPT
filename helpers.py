@@ -1,6 +1,7 @@
 from models import *
 import streamlit as st
 
+
 supported_languages = [
     "English",
     "French",
@@ -40,12 +41,8 @@ By the way, I can teach you any language, from any language, at any level! Let's
 landing_page_title = "👴 poppa - infinite language lessons"
 
 sample_lesson = Lesson(
-    thinking=Thinking(
-        text="In this lesson, we will explore how Swahili uses different word types, focusing on verbs. We'll look at the infinitive form of verbs using 'ku' and how to conjugate verbs in the present tense first person singular form using 'nina'. The verbs 'kulala' (to sleep) and 'kula' (to eat) will be used as examples."
-    ),
-    lesson_introduction_message=Introduction(
-        text="Today we're going to learn about verbs in Swahili. We'll see how verbs are structured and how to say 'to do' something as well as how to conjugate verbs to say 'I am doing' something. Let's dive in and explore some examples!"
-    ),
+    thinking="In this lesson, we will explore how Swahili uses different word types, focusing on verbs. We'll look at the infinitive form of verbs using 'ku' and how to conjugate verbs in the present tense first person singular form using 'nina'. The verbs 'kulala' (to sleep) and 'kula' (to eat) will be used as examples.",
+    lesson_introduction_message="Today we're going to learn about verbs in Swahili. We'll see how verbs are structured and how to say 'to do' something as well as how to conjugate verbs to say 'I am doing' something. Let's dive in and explore some examples!",
     interactions=[
         Interaction(
             explanation="In Swahili, the infinitive form of verbs, equivalent to 'to do' in English, starts with 'ku'. For example, 'to sleep' is 'kulala' and 'to eat' is 'kula'.",
@@ -58,9 +55,7 @@ sample_lesson = Lesson(
             expected="ninalala",
         ),
     ],
-    lesson_closing_message=Closing(
-        text="Great job today! You learned how to form infinitive verbs with 'ku' and conjugate them in first person present tense using 'nina'. Keep practicing with other verbs and soon you'll be expressing yourself more fully in Swahili. Come back for the next lesson!"
-    ),
+    lesson_closing_message="Great job today! You learned how to form infinitive verbs with 'ku' and conjugate them in first person present tense using 'nina'. Keep practicing with other verbs and soon you'll be expressing yourself more fully in Swahili. Come back for the next lesson!",
     continuation_prompt="learnt kulala and kula and introduced how to transform kulala to ninalala",
 )
 
@@ -99,3 +94,37 @@ def get_lesson_params():
 
 def update_max_len_interactions():
     st.session_state.max_msg_idx = len(st.session_state.interactions)
+
+
+def load_css():
+    # allows foreign word to be translated on hover
+    st.markdown(
+        """
+    <style>
+    .foreign-word {
+        text-decoration: underline;
+        text-decoration-style: dotted;
+    }
+    .foreign-word:hover::after {
+        content: attr(title);
+        position: absolute;
+        background-color: #000;
+        color: #fff;
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 14px;
+        z-index: 1;
+    }
+    </style>
+    """,
+        unsafe_allow_html=True,
+    )
+    # removes weird streamlit link icon
+    st.markdown(
+        """
+        <style>
+        .e1nzilvr3 {display: none}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )

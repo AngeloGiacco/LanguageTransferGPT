@@ -15,14 +15,7 @@ if chat_history_key not in st.session_state:
 if end_of_lesson_key not in st.session_state:
     st.session_state[end_of_lesson_key] = False
 
-st.markdown(
-    """
-    <style>
-    .e1nzilvr3 {display: none}
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+load_css()
 
 st.title(landing_page_title)
 
@@ -76,7 +69,7 @@ def start_lesson(lesson: Lesson):
     st.session_state.max_msg_idx = len(lesson.interactions)
     assistant_output = get_assistant_output(st.session_state.interactions[0])
     st.session_state[chat_history_key] = [
-        ("assistant", lesson.lesson_introduction_message.text),
+        ("assistant", lesson.lesson_introduction_message),
         ("assistant", assistant_output),
     ]
     st.session_state[end_of_lesson_key] = False
@@ -151,11 +144,11 @@ if st.session_state[lesson_started_key]:
                     st.markdown(new_teacher_stmt, unsafe_allow_html=True)
             else:
                 st.session_state[chat_history_key].append(
-                    ("assistant", st.session_state.closing_message.text)
+                    ("assistant", st.session_state.closing_message)
                 )
                 with st.chat_message("assistant", avatar=get_avatar("assistant")):
                     st.markdown(
-                        st.session_state.closing_message.text, unsafe_allow_html=True
+                        st.session_state.closing_message, unsafe_allow_html=True
                     )
                 st.rerun()  # TODO: find a better way to ensure that input text box isnt shown
     else:
