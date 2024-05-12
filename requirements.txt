@@ -1,0 +1,9 @@
+langchain
+streamlit
+pydantic
+annotated-types
+python-dotenv
+langchain
+langchain-groq
+langchain-openai 
+langchain-anthropic
