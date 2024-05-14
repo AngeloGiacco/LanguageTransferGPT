@@ -20,7 +20,7 @@ def get_chat(provider: str):
         return ChatGroq(temperature=0, model_name="llama3-70b-8192")
     elif provider == "openai":
         return ChatOpenAI(
-            model="gpt-4-turbo",
+            model="gpt-4o",
             openai_api_key=OpenAI_key,
             temperature=0,
         )

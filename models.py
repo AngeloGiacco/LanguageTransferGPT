@@ -19,7 +19,7 @@ class Thinking(BaseModel):
 
 class Interaction(BaseModel):
     explanation: str = Field(
-        "During an interaction with the user, you may want to teach some vocab, or explain a new grammar concept. You can do that here. Please don't ask any questions here. Introduce all vocab needed to answer the question. Wrap any words in the target language with <span class='foreign-word' title='translated'>word</span> tags, where 'translated' is the translation of the word into the native language."
+        description="During an interaction with the user, you may want to teach some vocab, or explain a new grammar concept. You can do that here. Please don't ask any questions here. Introduce all vocab needed to answer the question. Wrap any words in the target language with <span class='foreign-word' title='translated'>word</span> tags, where 'translated' is the translation of the word into the native language."
     )
     question: str = Field(
         description="A question about how to say something in the foreign language. The question should be written in the native language. Make this appropriate to the level and topic requested by the user. The question should follow naturally based on the explanation field."
