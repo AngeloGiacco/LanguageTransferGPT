@@ -32,7 +32,6 @@ supported_languages = [
     "Bulgarian",
     "Croatian",
     "Slovak",
-    "Tamil",
 ]
 
 introduction_message = """Please fill out the form on the left and we can jump into a lesson on anything you want :) <br>
